@@ -5,10 +5,10 @@ const characterList = require('../characters.json')
 module.exports = {
   data: new SlashCommandBuilder()
     .setName('character')
-    .setDescription('Choose a character')
+    .setDescription('Shows information for a character')
     .addStringOption(option => 
       option.setName('character')
-      .setDescription('Choose a character')
+      .setDescription('Type the character name')
       .setRequired(true)
       .setAutocomplete(true)
     ),
@@ -46,7 +46,7 @@ module.exports = {
 
     const embed = new EmbedBuilder()
       .setTitle(characterData.name)
-      .setDescription(characterData.overview)
+      .setDescription('**' + characterData.overview + '**')
       .setColor('#C27C0E')
       .setThumbnail(characterData.characterThumbnail)
       .addFields(
@@ -114,7 +114,7 @@ function handleSelectMenuInteraction(interaction, characterData, optionOverview,
 
       const embed = new EmbedBuilder()
         .setTitle(characterData.name)
-        .setDescription(characterData.overview)
+        .setDescription('**' + characterData.overview + '**')
         .setColor('#C27C0E')
         .setThumbnail(characterData.characterThumbnail)
         .addFields(
@@ -212,13 +212,13 @@ function handleButtonInteraction(interaction, characterData, btnUltimate, btnSki
     btnSkill2.setStyle(ButtonStyle.Primary);
     const embed = new EmbedBuilder()
       .setAuthor({ name: characterData.name, iconURL: characterData.characterThumbnail })
-      .setTitle(characterData.skill1Name)
+      .setTitle(characterData.skill2Name)
       .setColor('#C27C0E')
       .setThumbnail(characterData.skill2Thumbnail)
       .addFields(
         { name: '✦✧✧', value: characterData.skill2['1'], inline: true },
-        { name: '✦✦✧', value: characterData.skill2['1'], inline: true },
-        { name: '✦✦✦', value: characterData.skill2['1'], inline: true },
+        { name: '✦✦✧', value: characterData.skill2['2'], inline: true },
+        { name: '✦✦✦', value: characterData.skill2['3'], inline: true },
       );
 
     interaction.update({
