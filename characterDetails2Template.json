@@ -1,0 +1,30 @@
+{
+  "": {
+    "name": "",
+    "thumbnail": "",
+    "rarity": "",
+    "afflatus": "",
+    "damageType": "",
+    "overview": "",
+    "ultimate": {
+      "name": "",
+      "thumbnail": "",
+      "description": ""
+    },
+    "skills": [
+      {
+        "name": "",
+        "thumbnail": "",
+        "levels": ["", "", ""]
+      },
+      {
+        "name": "",
+        "thumbnail": "",
+        "levels": ["", "", ""]
+      }
+    ],
+    "portray": {
+      "levels": ["", "", "", "", ""]
+    }
+  }
+}
