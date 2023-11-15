@@ -1,26 +1,48 @@
-"": {
-  "name": "",
-  "characterThumbnail": "",
-  "rarity": "5✦",
-  "afflatus": "",
-  "damageType": "",
-  "overview": "",
-  "ultimateName": "",
-  "ultimateThumbnail": "",
-  "ultimate": "",
-  "skill1Name": "",
-  "skill1Thumbnail": "",
-  "skill1": {
-    "1": "",
-    "2": "",
-    "3": ""
-  },
-  "skill2Name": "",
-  "skill2Thumbnail": "",
-  "skill2": {
-    "1": "",
-    "2": "",
-    "3": ""
-  },
-  "portray": ""
+{
+  "": {
+    "name": "",
+    "url": "",
+    "thumbnail": "",
+    "rarity": "",
+    "afflatus": "",
+    "damageType": "",
+    "overview": "",
+    "insight": {
+      "name": "",
+      "levels": [
+        {
+          "description": "",
+          "materials": ["Sharpodonty: x18 000", "", "", ""]
+        },
+        {
+          "description": "",
+          "materials": ["Sharpodonty: x40 000", "", "", ""]
+        },
+        {
+          "description": "",
+          "materials": ["Sharpodonty: x200 000", "", "", ""]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "",
+      "thumbnail": "",
+      "description": ""
+    },
+    "skills": [
+      {
+        "name": "",
+        "thumbnail": "",
+        "levels": ["", "", ""]
+      },
+      {
+        "name": "",
+        "thumbnail": "",
+        "levels": ["", "", ""]
+      }
+    ],
+    "portray": {
+      "levels": ["", "", "", "", ""]
+    }
+  }
 }
