@@ -13,28 +13,28 @@
         {
           "description": "After using an Incantation, gain one stack of [Eureka]; Other allies' Follow-Up actions also grant an stack of [Eureka]. When there are five stacks, they all get consumed to release [Supplementary Formula]. This attack is regarded as a Follow-Up but no [Eureka] stack is gained",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Starlit Ascent: x6",
-            "Magnesia Crystal: x6",
-            "Liquified Terror: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x6",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x5"
           ]
         },
         {
           "description": "When the caster enters battle, critical damage is increased by 15%",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Starlit Ascent: x10",
-            "Esoteric Bones: x6",
-            "Winged Key: x6"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x10",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x6",
+            "<:winged_key:1174243718006575165> Winged Key: x6"
           ]
         },
         {
           "description": "When the caster enters battle, the critical rate is increased by 20%; Genesis DMG of all incantations from the caster can cause critical hits",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Starlint Ascent: x16",
-            "Bogeyman: x5",
-            "Caduceus: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x16",
+            "<:bogeyman:1174244736559755296> Bogeyman: x5",
+            "<:caduceus:1174244742658261022> Caduceus: x3"
           ]
         }
       ]
@@ -148,31 +148,31 @@
         {
           "description": "For every (Max HP x20%) HP lost by the target, DMG Dealt +10%",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Plantal Vimen: x3",
-            "Page Of Beastly Thirst: x3",
-            "Silver Ore: x6",
-            "Spell Of Fortune: x6"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x3",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x3",
+            "<:silver_ore:1174245345144868895> Silver Ore: x6",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x6"
           ]
         },
         {
           "description": "DMG Taken -8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Plantal Vimen: x5",
-            "Scroll Of Beastly Thirst: x5",
-            "Solidus: x3",
-            "Biting Box: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x5",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x5",
+            "<:solidus:1174245731717107732> Solidus: x3",
+            "<:biting_box:1174245727514402856> Biting Box: x4"
           ]
         },
         {
           "description": "For every (Max HP x20%) HP lost by the enemy, Penetration Rate +10%",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Plantal Vimen: x8",
-            "Tome Of Beastly Thirst: x8",
-            "Incorrupt Monkeypaw: x6",
-            "Mistilteinn: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x8",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x8",
+            "<:incorrupt_monkeypaw:1174247469891207198> Incorrupt Monkeypaw: x6",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x3"
           ]
         }
       ]
@@ -226,28 +226,28 @@
         {
           "description": "When a round starts, switches between [Break Time] and [Exorcism Time] statuses. When the caster enters [Exorcism Time] status, the caster's right-most Incantation +1 star",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Tome Of Plantal Vimen: x8",
-            "Spell Of Banishing: x6",
-            "Solidus: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x8",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x6",
+            "<:solidus:1174245731717107732> Solidus: x4"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Plantal Vimen: x10",
-            "Liquified Terror: x5",
-            "Salted Mandrake: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x10",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x4"
           ]
         },
         {
           "description": "Enhance [Break Time] effect: DMG Taken Reduction +15%. Enhances [Exorcism Time] effect: DMG Bonus +15%, Penetration Rate +15%",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Plantal Vimen: x16",
-            "Wyrming Skeleton: x6",
-            "Golden Fleece: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x16",
+            "<:wyrming_skeleton:1174249284795891722> Wyrming Skeleton: x6",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x3"
           ]
         }
       ]
@@ -301,28 +301,28 @@
         {
           "description": "When a [Planet] is removed, gain 1 stack of [Saturn Divination], [Mars Divination] or [Full-Moon Divination] depending on the type. [Saturn Divination]: +12% Penetration Rate (effect stacks, all stacks get consumed after attacking). [Mars Divination]: +12% Leech Rate (effect stacks, all stacks get consumed after attacking). [Full-Moon Divination]: +12% Skill power (effect stacks, all stacks get consumed after attacking)",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Mineral Wealth: x6",
-            "Magnesia Crystal: x6",
-            "Rough Silver Ingot: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x6",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5"
           ]
         },
         {
           "description": "Upon entering combat, increases Crit Rate by 10%",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Mineral Wealth: x10",
-            "Esoteric Bones: x5",
-            "Prophetic Bird: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x10",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x5"
           ]
         },
         {
           "description": "After the caster uses their Ultimate, gains 1 effect based on the most removed [Planet]. If [Saturn] is the most removed [Planet], immediately casts [Enchanted Strike] at the rank corresponding to the amount of [Saturn]s removed. If [Mars] is the most removed [Planet], immediately casts [Mythical Meteors] at the rank corresponding to the amount of [Mars]s removed. If [Full-Moon] is the most removed [Planet], immediately gains [Spell Incantationt II] for 1/2 rounds corresponding to the amount of [Full-Moon]s removed",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Mineral Wealth: x16",
-            "Plantinum Oujia: x5",
-            "Golden Fleece: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x16",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x5",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x3"
           ]
         }
       ]
@@ -376,28 +376,28 @@
         {
           "description": "For every 1 Moxie owned, DMG Dealt +6%",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Beastly Thirst: x6",
-            "Spell Of Banishing: x6",
-            "Solidus: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x6",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x6",
+            "<:solidus:1174245731717107732> Solidus: x4"
           ]
         },
         {
           "description": "Critical Rate +10% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Beastly Thirst: x10",
-            "Liquified Terror: x5",
-            "Salted Mandrake: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x10",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x4"
           ]
         },
         {
           "description": "When the caster loses Moxie, HP +(Max HP x20%)",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Beastly Thirst: x16",
-            "Wyrming Skeleton: x6",
-            "Golden Fleece: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x16",
+            "<:wyrming_skeleton:1174249284795891722> Wyrming Skeleton: x6",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x3"
           ]
         }
       ]
@@ -451,28 +451,28 @@
         {
           "description": "When attacking an enemy under the [Poison] state, the damage dealt is increased by 20%. After entering combat, at the start of every 3rd round (1, 3, 6, 9), inflict [Poison] on all enemies for 2 rounds",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Plantal Vimen: x6",
-            "Trembling Tooth: x5",
-            "Milled Magnesia: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x6",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x5",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x5"
           ]
         },
         {
           "description": "Upon entering combat, damage dealt is increased by 8%",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Plantal Vimen: x10",
-            "Esoteric Bones: x5",
-            "Holy Silver: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x10",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5",
+            "<:holy_silver:1174251736542752778> Holy Silver: x5"
           ]
         },
         {
           "description": "After attacking an enemy that is not under the [Poison] state, inflict [Poison] on it for 2 rounds",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Plantal Vimen: x16",
-            "Murmur Of Insanity: x6",
-            "Fruit Of Good And Evil: x6"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x16",
+            "<:murmur_insanity:1174251729957695528> Murmur Of Insanity: x6",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x6"
           ]
         }
       ]
@@ -526,28 +526,28 @@
         {
           "description": "When the caster is in [Stats Up] or [Post Status] statuses, DMG Dealt +20%",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Plantal Vimen: x6",
-            "Trembling Tooth: x5",
-            "Milled Magnesia: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x6",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x5",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x5"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters the battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Plantal Vimen: x10",
-            "Esoteric Bones: x5",
-            "Holy Silver: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x10",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5",
+            "<:holy_silver:1174251736542752778> Holy Silver: x5"
           ]
         },
         {
           "description": "When the caster enters battle, all [Plant] allies enter [Circle of Life] status (triggers 1 time)",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Plantal Vimen: x16",
-            "Murmur Of Insanity: x6",
-            "Fruit Of Good And Evil: x6"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x16",
+            "<:murmur_insanity:1174251729957695528> Murmur Of Insanity: x6",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x6"
           ]
         }
       ]
@@ -601,28 +601,28 @@
         {
           "description": "Gains immunity to [Bleed], [Corrode], and [Poison] statuses. When a round starts, the caster gains 1 stack of [Blood of Longevity]: DMG Dealt +3% and DMG Heal +3% (stacks up to 5 times)",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Mineral Wealth: x6",
-            "Silver Ore: x6",
-            "Liquified Terror: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:silver_ore:1174245345144868895> Silver Ore: x6",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x4"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Mineral Wealth: x10",
-            "Milled Magnesia: x5",
-            "Bifurcated Skeleton: x6"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x10",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x5",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x6"
           ]
         },
         {
           "description": "Enhanced [Blood of Longevity] effect: DMG Dealt +5% and DMG Heal +5%. At 5 stacks of Blood of Longevity, this effect transforms to [Blood of Immortality]",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Mineral Wealth: x16",
-            "Silver Bullet: x6",
-            "Fruit Of Good And Evil: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x16",
+            "<:silver_bullet:1174252238026326016> Silver Bullet: x6",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x3"
           ]
         }
       ]
@@ -676,28 +676,28 @@
         {
           "description": "When the caster casts an Ultimate, Critical Rate +20%",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Starlit Ascent: x6",
-            "Shattered Bones: x6",
-            "Rough Silver Ingot: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x6",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5"
           ]
         },
         {
           "description": "Critical Rate +10% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Starlit Ascent: x10",
-            "Spell Of Fortune: x6",
-            "Clawed Pendulum: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x10",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x6",
+            "<:clawed_pendulum:1174252644118839317> Clawed Pendulum: x3"
           ]
         },
         {
           "description": "Psychube's basic Critical Rate Bonus +100%",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Starlint Ascent: x16",
-            "Bogeyman: x5",
-            "Golden Fleece: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x16",
+            "<:bogeyman:1174244736559755296> Bogeyman: x5",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x3"
           ]
         }
       ]
@@ -751,28 +751,28 @@
         {
           "description": "After the caster casts an Ultimate, HP +(Medicine Pocket's ATK x80%) for all allies",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Beastly Thirst: x6",
-            "Shattered Bones: x6",
-            "Rough Silver Ingot: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x6",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x6",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Beastly Thirst: x10",
-            "Spell Of Fortune: x6",
-            "Clawed Pendulum: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x10",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x6",
+            "<:clawed_pendulum:1174252644118839317> Clawed Pendulum: x3"
           ]
         },
         {
           "description": "If the caster's HP is below 50%, Healing Done +10%",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Beastly Thirst: x16",
-            "Bogeyman: x5",
-            "Golden Fleece: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x16",
+            "<:bogeyman:1174244736559755296> Bogeyman: x5",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x3"
           ]
         }
       ]
@@ -826,28 +826,28 @@
         {
           "description": "After the caster casts an Ultimate, gains 1 stack of [Fixed Plan]",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Beastly Thirst: x6",
-            "Trembling Tooth: x5",
-            "Esoteric Bones: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x6",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x5",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Beastly Thirst: x10",
-            "Milled Magnesia: x5",
-            "Holy Silver: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x10",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x5",
+            "<:holy_silver:1174251736542752778> Holy Silver: x5"
           ]
         },
         {
           "description": "After the caster casts an Ultimate, gives the caster 1 additional stack of [Fixed Plan]",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Beastly Thirst: x16",
-            "Murmur Of Insanity: x6",
-            "Fruit Of Good And Evil: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x16",
+            "<:murmur_insanity:1174251729957695528> Murmur Of Insanity: x6",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x3"
           ]
         }
       ]
@@ -901,28 +901,28 @@
         {
           "description": "When the caster is attacked, gives the caster 1 stack of [Guarding Instinct] for 2 rounds",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Mineral Wealth: x6",
-            "Silver Ore: x6",
-            "Liquified Terror: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:silver_ore:1174245345144868895> Silver Ore: x6",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x4"
           ]
         },
         {
           "description": "DMG Taken -8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Mineral Wealth: x10",
-            "Milled Magnesia: x5",
-            "Bifurcated Skeleton: x6"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x10",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x5",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x6"
           ]
         },
         {
           "description": "After gaining a total of 15 [Guarding Instinct] stacks, enters [Loyal Partner] status and the caster no longer gains [Guarding Instinct]",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Mineral Wealth: x16",
-            "Silver Bullet: x6",
-            "Fruit Of Good And Evil: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x16",
+            "<:silver_bullet:1174252238026326016> Silver Bullet: x6",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x3"
           ]
         }
       ]
@@ -976,28 +976,28 @@
         {
           "description": "When no action is taken this round, gives the caster 1 stack of [Clarified Topic]. Every time [Clarified Topic] is triggered, Moxie +1 for the caster",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Mineral Wealth: x6",
-            "Silver Ore: x6",
-            "Spell Of Fortune: x6"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:silver_ore:1174245345144868895> Silver Ore: x6",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x6"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Mineral Wealth: x10",
-            "Solidus: x3",
-            "Biting Box: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x10",
+            "<:solidus:1174245731717107732> Solidus: x3",
+            "<:biting_box:1174245727514402856> Biting Box: x4"
           ]
         },
         {
           "description": "Gains 2 stacks of [Clarified Topic] immediately upon entering battle",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Mineral Wealth: x16",
-            "Incorrupt Monkeypaw: x6",
-            "Mistilteinn: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x16",
+            "<:incorrupt_monkeypaw:1174247469891207198> Incorrupt Monkeypaw: x6",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x3"
           ]
         }
       ]
@@ -1051,28 +1051,28 @@
         {
           "description": "If the caster has not acted in a round, enters [Restless Heart] status at the end of the round",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Starlit Ascent: x6",
-            "Magnesia Crystal: x6",
-            "Esoteric Bones: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x6",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5"
           ]
         },
         {
           "description": "Critical DMG +15% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Starlit Ascent: x10",
-            "Rough Silver Ingot: x4",
-            "Prophetic Bird: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x10",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x5"
           ]
         },
         {
           "description": "When [Restless Heart] status is dispelled, Moxie +1",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Starlint Ascent: x16",
-            "Plantinum Oujia: x5",
-            "Mistilteinn: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x16",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x5",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x3"
           ]
         }
       ]
@@ -1126,28 +1126,28 @@
         {
           "description": "For every [Stats Down] status on the target when attacking, damage dealt is increased by 8% (up to a max of 24%). Upon entering combat, gain 2 stacks of [Nature's Blessing]",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Beastly Thirst: x6",
-            "Shattered Bones: x6",
-            "Milled Magnesia: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x6",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x6",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x5"
           ]
         },
         {
           "description": "Upon entering combat, damage dealt increased by 8%",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Beastly Thirst: x10",
-            "Spell Of Fortune: x6",
-            "Clawed Pendulum: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x10",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x6",
+            "<:clawed_pendulum:1174252644118839317> Clawed Pendulum: x3"
           ]
         },
         {
           "description": "At the start of every 2 turns, gain 1 stack of [Nature's Blessing]",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Beastly Thirst: x16",
-            "Silver Bullet: x6",
-            "Mistilteinn: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x16",
+            "<:silver_bullet:1174252238026326016> Silver Bullet: x6",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x3"
           ]
         }
       ]
@@ -1201,28 +1201,28 @@
         {
           "description": "The duration of [Poison] inflicted by [Triple the Dose!] +1 round",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Plantal Vimen: x6",
-            "Magnesia Crystal: x6",
-            "Esoteric Bones: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x6",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x6",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5"
           ]
         },
         {
           "description": "When entering battle, Healing Done +10%",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Plantal Vimen: x10",
-            "Rough Silver Ingot: x4",
-            "Prophetic Bird: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x10",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x5"
           ]
         },
         {
           "description": "Before [Concentrated Essence!] inflicts [Cure] status, the [Cure] statuses on all allies take effect immediately",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Plantal Vimen: x16",
-            "Plantinum Oujia: x5",
-            "Mistilteinn: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x16",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x5",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x3"
           ]
         }
       ]
@@ -1276,28 +1276,28 @@
         {
           "description": "Upon entering battle, Immediately gain 3 [Baby Tooth]; When any ally actively casts a skill, gain 1 [Baby Tooth]. When the round begins, spend 5 [Baby Tooth] to reduce -15% Crit Resist Rate and Crit DEF for all enemies. Lasts for 1 round. (Cannot be triggered if there is not enough stacks of Baby Tooth)",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Starlit Ascent: x6",
-            "Spell Of Banishing: x6",
-            "Solidus: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x6",
+            "<:solidus:1174245731717107732> Solidus: x4"
           ]
         },
         {
           "description": "Upon entering battle, +40% Healing effect",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Starlit Ascent: x10",
-            "Liquified Terror: x5",
-            "Salted Mandrake: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x10",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x4"
           ]
         },
         {
           "description": "When stat debuff effect of [Baby Tooth] is triggered, heals all allies for 10% of HP lost. Upon entering battle, gain 2 additional [Baby Tooth]",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Starlint Ascent: x16",
-            "Wyrming Skeleton: x6",
-            "Golden Fleece: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x16",
+            "<:wyrming_skeleton:1174249284795891722> Wyrming Skeleton: x6",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x3"
           ]
         }
       ]
@@ -1351,28 +1351,28 @@
         {
           "description": "After performing 3 actions, enters [Chorus Ensemble]",
           "materials": [
-            "Sharpodonty: x18 000",
-            "Page Of Starlit Ascent: x6",
-            "Shattered Bones: x6",
-            "Rough Silver Ingot: x5"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x18 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x6",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x40 000",
-            "Scroll Of Starlit Ascent: x10",
-            "Spell Of Fortune: x6",
-            "Clawed Pendulum: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x40 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x10",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x6",
+            "<:clawed_pendulum:1174252644118839317> Clawed Pendulum: x3"
           ]
         },
         {
           "description": "Enhanced [Chorus Ensemble] effect: If there are enemies after the caster takes action, also inflicts 1 round of [Seal] on all enemies",
           "materials": [
-            "Sharpodonty: x200 000",
-            "Tome Of Starlint Ascent: x16",
-            "Bogeyman: x5",
-            "Golden Fleece: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x200 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x16",
+            "<:bogeyman:1174244736559755296> Bogeyman: x5",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x3"
           ]
         }
       ]
@@ -1426,28 +1426,28 @@
         {
           "description": "When the caster takes Mental DMG, DMG Taken -20% and Critical DEF +20%",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Starlit Ascent: x6",
-            "Silver Ore: x5",
-            "Spell Of Fortune: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:silver_ore:1174245345144868895> Silver Ore: x5",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x4"
           ]
         },
         {
           "description": "Critical Resist Rate +10% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Starlit Ascent: x8",
-            "Solidus: x3",
-            "Biting Box: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x8",
+            "<:solidus:1174245731717107732> Solidus: x3",
+            "<:biting_box:1174245727514402856> Biting Box: x2"
           ]
         },
         {
           "description": "When the caster takes Mental DMG, gives the attacker 1 stack of [Wonderland Visitor] for 2 rounds",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Starlint Ascent: x12",
-            "Incorrupt Monkeypaw: x5",
-            "Mistilteinn: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x12",
+            "<:incorrupt_monkeypaw:1174247469891207198> Incorrupt Monkeypaw: x5",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x2"
           ]
         }
       ]
@@ -1501,28 +1501,28 @@
         {
           "description": "When a round starts, gets 1 [Party Balloon] (triggers up to 3 times)",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Mineral Wealth: x6",
-            "Silver Ore: x5",
-            "Liquified Terror: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:silver_ore:1174245345144868895> Silver Ore: x5",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x3"
           ]
         },
         {
           "description": "When entering battle, Healing Done +10%",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Mineral Wealth: x8",
-            "Milled Magnesia: x4",
-            "Bifurcated Skeleton: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x8",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x4",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x3"
           ]
         },
         {
           "description": "The [Party Balloon] acquired when a round begins becomes permanent",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Mineral Wealth: x12",
-            "Silver Bullet: x5",
-            "Fruit Of Good And Evil: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x12",
+            "<:silver_bullet:1174252238026326016> Silver Bullet: x5",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x2"
           ]
         }
       ]
@@ -1576,19 +1576,19 @@
         {
           "description": "When the enemy is in [Stats Down], [Neg Status], or [Control] statuses, DMG Dealt +20% to the enemy",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Plantal Vimen: x6",
-            "Trembling Tooth: x4",
-            "Esoteric Bones: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x6",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x4",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x3"
           ]
         },
         {
           "description": "ATK +5% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Plantal Vimen: x8",
-            "Milled Magnesia: x4",
-            "Holy Silver: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x8",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x4",
+            "<:holy_silver:1174251736542752778> Holy Silver: x3"
           ]
         },
         {
@@ -1646,28 +1646,28 @@
         {
           "description": "After the caster uses their Ultimate, they gain 20% Crit Rate and Crit DMG for 2 rounds",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Starlit Ascent: x6",
-            "Silver Ore: x5",
-            "Liquified Terror: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:silver_ore:1174245345144868895> Silver Ore: x5",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x3"
           ]
         },
         {
           "description": "Upon entering combat, increases Crit Rate by 15%",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Starlit Ascent: x8",
-            "Milled Magnesia: x4",
-            "Bifurcated Skeleton: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x8",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x4",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x3"
           ]
         },
         {
           "description": "After the caster uses their Ultimate, they gain an additional 10% Crit Rate and Crit DMG for 2 rounds",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Starlint Ascent: x12",
-            "Silver Bullet: x5",
-            "Fruit Of Good And Evil: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x12",
+            "<:silver_bullet:1174252238026326016> Silver Bullet: x5",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x2"
           ]
         }
       ]
@@ -1721,28 +1721,28 @@
         {
           "description": "When the caster starts the round with HP below 50%, DMG Taken -20% and Critical DEF +20% for 1 round",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Starlit Ascent: x8",
-            "Spell Of Banishing: x5",
-            "Solidus: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x8",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x5",
+            "<:solidus:1174245731717107732> Solidus: x3"
           ]
         },
         {
           "description": "ATK +5% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Starlit Ascent: x8",
-            "Liquified Terror: x5",
-            "Salted Mandrake: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x8",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
           ]
         },
         {
           "description": "When the caster starts the round with HP above 50%, then DMG Dealt +20% for 1 round",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Starlint Ascent: x12",
-            "Wyrming Skeleton: x5",
-            "Golden Fleece: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x12",
+            "<:wyrming_skeleton:1174249284795891722> Wyrming Skeleton: x5",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x2"
           ]
         }
       ]
@@ -1796,31 +1796,31 @@
         {
           "description": "At the beginning of every 2 rounds, enters [Lens Cap] status for 1 round",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Plantal Vimen: x3",
-            "Page Of Beastly Thirst: x3",
-            "Shattered Bones: x4",
-            "Rough Silver Ingot: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x3",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x3",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4"
           ]
         },
         {
           "description": "DMG Taken -8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Plantal Vimen: x4",
-            "Scroll Of Beastly Thirst: x4",
-            "Spell Of Fortune: x6",
-            "Clawed Pendulum: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x4",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x4",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x6",
+            "<:clawed_pendulum:1174252644118839317> Clawed Pendulum: x2"
           ]
         },
         {
           "description": "When the caster is in [Lens Cap] status, Penetration Rate +30%",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Plantal Vimen: x6",
-            "Tome Of Beastly Thirst: x6",
-            "Bogeyman: x4",
-            "Golden Fleece: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x6",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x6",
+            "<:bogeyman:1174244736559755296> Bogeyman: x4",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x2"
           ]
         }
       ]
@@ -1874,28 +1874,28 @@
         {
           "description": "When entering battle, gives (the caster's Max HP x33%) Shield to Diggers for 3 rounds (only triggers 1 time)",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Plantal Vimen: x6",
-            "Spell Of Banishing: x5",
-            "Solidus: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x6",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x5",
+            "<:solidus:1174245731717107732> Solidus: x3"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Plantal Vimen: x8",
-            "Liquified Terror: x5",
-            "Salted Mandrake: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x8",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
           ]
         },
         {
           "description": "When entering battle, gives (Digger's Max HP x33%) Shield to other allies for 3 rounds (only triggers 1 time)",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Plantal Vimen: x12",
-            "Wyrming Skeleton: x5",
-            "Golden Fleece: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x12",
+            "<:wyrming_skeleton:1174249284795891722> Wyrming Skeleton: x5",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x2"
           ]
         }
       ]
@@ -1949,28 +1949,28 @@
         {
           "description": "When the caster attacks, if the caster's HP percentage is higher than the target's, ATK +15%",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Beastly Thirst: x6",
-            "Milled Magnesia: x4",
-            "Rough Silver Ingot: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x6",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4"
           ]
         },
         {
           "description": "ATK +5% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Beastly Thirst: x8",
-            "Esoteric Bones: x4",
-            "Prophetic Bird: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x8",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x4",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x3"
           ]
         },
         {
           "description": "When the caster attacks, if the caster's HP percentage is lower than the target, Leech Rate +15%",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Beastly Thirst: x12",
-            "Plantinum Oujia: x4",
-            "Golden Fleece: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x12",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x4",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x2"
           ]
         }
       ]
@@ -2024,28 +2024,28 @@
         {
           "description": "When the caster uses [Dictated by Logic] at level 2 or higher, also dispels all [Counter] from the target",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Mineral Wealth: x6",
-            "Magnesia Crystal: x4",
-            "Rough Silver Ingot: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4"
           ]
         },
         {
           "description": "Upon entering combat, reduces damage taken by 8%",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Mineral Wealth: x8",
-            "Esoteric Bones: x3",
-            "Prophetic Bird: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x8",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x3",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x3"
           ]
         },
         {
           "description": "When the caster uses a level 2 or higher Skill, damage dealt is increased by 20%",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Mineral Wealth: x12",
-            "Plantinum Oujia: x4",
-            "Golden Fleece: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x12",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x4",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x2"
           ]
         }
       ]
@@ -2099,28 +2099,28 @@
         {
           "description": "At the start of the turn, the caster performs a Divination and gains [Jade's Fortune], [Pearl's Fortune] and [Agate's Fortune] each in turn [Jade's Fortune]: The next use of [Hey, Punji!] is enhanced. (Cannot be dispelled) [Pearl's Fortune]: The next use of [Oh, Divination!] is enhanced. (Cannot be dispelled) [Agate's Fortune]: The next use of [Wandering Song and Dance] is enhanced. (Cannot be dispelled)",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Plantal Vimen: x6",
-            "Trembling Tooth: x4",
-            "Milled Magnesia: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x6",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x4",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x3"
           ]
         },
         {
           "description": "Upon entering combat, decrease damage taken by 8%",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Plantal Vimen: x8",
-            "Esoteric Bones: x5",
-            "Holy Silver: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x8",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5",
+            "<:holy_silver:1174251736542752778> Holy Silver: x4"
           ]
         },
         {
           "description": "While attacking a target that is inflicted with [Neg Status], the power of the caster's attack is increased by 10%",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Plantal Vimen: x12",
-            "Murmur Of Insanity: x5",
-            "Fruit Of Good And Evil: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x12",
+            "<:murmur_insanity:1174251729957695528> Murmur Of Insanity: x5",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x2"
           ]
         }
       ]
@@ -2174,28 +2174,28 @@
         {
           "description": "When the caster is in [Stats Up] or [Pos Status] statuses, Critical Rate +15%",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Starlit Ascent: x6",
-            "Magnesia Crystal: x4",
-            "Esoteric Bones: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x6",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x4",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x3"
           ]
         },
         {
           "description": "When the caster enters battle, damage dealt +8%",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Starlit Ascent: x8",
-            "Rough Silver Ingot: x4",
-            "Prophetic Bird: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x8",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x3"
           ]
         },
         {
           "description": "When the caster is in [Stats Up] or [Pos Status] statuses, damage received -15%",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Starlint Ascent: x12",
-            "Plantinum Oujia: x4",
-            "Mistilteinn: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x12",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x4",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x2"
           ]
         }
       ]
@@ -2249,28 +2249,28 @@
         {
           "description": "When the caster enters battle, enters [Prayer] status (only triggers 1 time)",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Mineral Wealth: x6",
-            "Silver Ore: x6",
-            "Spell Of Fortune: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:silver_ore:1174245345144868895> Silver Ore: x6",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x4"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Mineral Wealth: x8",
-            "Solidus: x3",
-            "Biting Box: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x8",
+            "<:solidus:1174245731717107732> Solidus: x3",
+            "<:biting_box:1174245727514402856> Biting Box: x2"
           ]
         },
         {
           "description": "When a [Prayer] status on your side is dispelled, HP +(the caster's ATK x50%)",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Mineral Wealth: x12",
-            "Incorrupt Monkeypaw: x5",
-            "Mistilteinn: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x12",
+            "<:incorrupt_monkeypaw:1174247469891207198> Incorrupt Monkeypaw: x5",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x2"
           ]
         }
       ]
@@ -2324,28 +2324,28 @@
         {
           "description": "When the caster enters battle, inflicts 1 stack of [Rigidity] on all enemies (only triggers 1 time). When the caster dies, inflicts [Petrify] status on the enemy with the highest ATK for 2 rounds",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Plantal Vimen: x6",
-            "Trembling Tooth: x4",
-            "Milled Magnesia: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x6",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x4",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x3"
           ]
         },
         {
           "description": "When the caster enters battle, Penetration Rate +10%",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Plantal Vimen: x8",
-            "Esoteric Bones: x5",
-            "Holy Silver: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x8",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5",
+            "<:holy_silver:1174251736542752778> Holy Silver: x4"
           ]
         },
         {
           "description": "Attacks against enemies with [Rigidity] or [Petrify] statuses enjoy Penetration Rate +15%. When the caster is attacked by enemies with [Rigidity] status, DMG Taken -15%",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Plantal Vimen: x12",
-            "Murmur Of Insanity: x5",
-            "Fruit Of Good And Evil: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_plant:1174246473488146472> Tome Of Plantal Vimen: x12",
+            "<:murmur_insanity:1174251729957695528> Murmur Of Insanity: x5",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x2"
           ]
         }
       ]
@@ -2399,28 +2399,28 @@
         {
           "description": "When the caster is in [Stats Up] or [Pos Status] statuses, DMG Dealt +15%",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Mineral Wealth: x6",
-            "Magnesia Crystal: x6",
-            "Esoteric Bones: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x6",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x6",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x3"
           ]
         },
         {
           "description": "Reality DEF and Mental DEF +10%",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Mineral Wealth: x8",
-            "Rough Silver Ingot: x4",
-            "Prophetic Bird: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x8",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x3"
           ]
         },
         {
           "description": "When the caster is in [Stats Up] or [Pos Status] statuses, Critical Resist and Critical DEF +15%",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Mineral Wealth: x12",
-            "Plantinum Oujia: x4",
-            "Mistilteinn: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x12",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x4",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x2"
           ]
         }
       ]
@@ -2474,28 +2474,28 @@
         {
           "description": "When the caster is attacked, inflicts the attacker 1 stack of [Enchanted] for 2 rounds. If the attacker is of the opposite gender, inflicts 1 stack of [Enchanted] for 2 rounds",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Scroll Of Beastly Thirst: x6",
-            "Shattered Bones: x4",
-            "Rough Silver Ingot: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x6",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4"
           ]
         },
         {
           "description": "Critical Rate +10% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Beastly Thirst: x8",
-            "Spell Of Fortune: x4",
-            "Clawed Pendulum: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x8",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x4",
+            "<:clawed_pendulum:1174252644118839317> Clawed Pendulum: x2"
           ]
         },
         {
           "description": "When the caster attacks, inflicts 1 stack of [Enchanted] on the target for 2 rounds. If the target is of the opposite sex, inflicts 1 additional stack of [Enchanted]",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Beastly Thirst: x12",
-            "Bogeyman: x4",
-            "Golden Fleece: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x12",
+            "<:bogeyman:1174244736559755296> Bogeyman: x4",
+            "<:golden_fleece:1174249274272403517> Golden Fleece: x2"
           ]
         }
       ]
@@ -2549,28 +2549,28 @@
         {
           "description": "After the caster enters battle, immediately casts 1-star [A Bouquet of Galaxy] and gains 1 stack of [Diamond Bullet] (only triggers 1 time)",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Page Of Beastly Thirst: x6",
-            "Trembling Tooth: x4",
-            "Milled Magnesia: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x6",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x4",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x3"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Beastly Thirst: x8",
-            "Esoteric Bones: x5",
-            "Holy Silver: x4"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x8",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x5",
+            "<:holy_silver:1174251736542752778> Holy Silver: x4"
           ]
         },
         {
           "description": "If the caster starts a round with HP below 50%, immediately casts 1-star [A Bouquet of Galaxy] (only triggers 1 time)",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Beastly Thirst: x12",
-            "Murmur Of Insanity: x5",
-            "Fruit Of Good And Evil: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_beast:1174246467804856380> Tome Of Beastly Thirst: x12",
+            "<:murmur_insanity:1174251729957695528> Murmur Of Insanity: x5",
+            "<:fruit_good_bad:1174251722114351184> Fruit Of Good And Evil: x2"
           ]
         }
       ]
@@ -2612,8 +2612,8 @@
   },
   "X": {
     "name": "X (Formerly Twitter)",
-    "url": "https://www.prydwen.gg/re1999/characters/x",
-    "characterThumbnail": "https://www.prydwen.gg/static/9b2ce82b96ed7507a28f54f2efa482aa/60b4d/12_icon.webp",
+    "url": "https://www.x.com",
+    "thumbnail": "https://www.prydwen.gg/static/9b2ce82b96ed7507a28f54f2efa482aa/60b4d/12_icon.webp",
     "rarity": "5✦",
     "afflatus": "Intellect",
     "damageType": "Reality",
@@ -2624,31 +2624,31 @@
         {
           "description": "When the caster dispels [Stats Up] or [Pos Status] statuses from the enemy, inflicts [Silence] status on them for 1 round. When the caster dispels [Counter] status from the enemy, inflicts [Silence] status on them for 2 rounds",
           "materials": [
-            "Sharpodonty: x12 000",
-            "Scroll Of Mineral Wealth: x3",
-            "Scroll Of Starlit Ascent: x3",
-            "Magnesia Crystal: x4",
-            "Esoteric Bones: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x12 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x3",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x3",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x4",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x3"
           ]
         },
         {
           "description": "DMG Dealt +8% when the caster enters battle",
           "materials": [
-            "Sharpodonty: x30 000",
-            "Scroll Of Mineral Wealth: x4",
-            "Scroll Of Starlit Ascent: x4",
-            "Rough Silver Ingot: x4",
-            "Prophetic Bird: x3"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x30 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x4",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x4",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x3"
           ]
         },
         {
           "description": "After casting the Ultimate, inflicts [Disconcert] status on the target(s) for 1 round.",
           "materials": [
-            "Sharpodonty: x120 000",
-            "Tome Of Mineral Wealth: x6",
-            "Tome Of Starlint Ascent: x6",
-            "Plantinum Oujia: x4",
-            "Mistilteinn: x2"
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x120 000",
+            "<:tome_mineral:1174250715472990208> Tome Of Mineral Wealth: x6",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x6",
+            "<:platinum_oujia:1174250698146316328> Plantinum Oujia: x4",
+            "<:mistilteinn:1174247216685273148> Mistilteinn: x2"
           ]
         }
       ]

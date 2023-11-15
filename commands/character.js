@@ -74,7 +74,7 @@ module.exports = {
 
     const embed = new EmbedBuilder()
       .setTitle(characterData.name)
-      .setURL(CharacterData.url)
+      .setURL(characterData.url)
       .setDescription("**" + characterData.overview + "**")
       .setColor("#C27C0E")
       .setThumbnail(characterData.thumbnail)
@@ -101,12 +101,12 @@ module.exports = {
     const buttonCollector = reply.createMessageComponentCollector({
       componentType: ComponentType.Button,
       filter,
-      time: 60_000,
+      time: 120_000,
     });
     const categoryCollector = reply.createMessageComponentCollector({
       componentType: ComponentType.StringSelect,
       filter,
-      time: 60_000,
+      time: 120_000,
     });
 
     categoryCollector.on("collect", (interaction) => {
@@ -234,18 +234,18 @@ function handleSelectMenuInteraction(
       if (characterData.rarity == '6✦' || characterData.rarity == '5✦') {
         embed.addFields(
           { name: '<:i1:1174155084846858360> Insight I', value: characterData.insight.levels[0].description },
-          { name: 'Materials', value: characterData.insight.levels[0].materials.join(', ') },
+          { name: 'Materials', value: characterData.insight.levels[0].materials.join('\n') },
           { name: '<:i2:1174155086977573004> Insight II', value: characterData.insight.levels[1].description },
-          { name: 'Materials', value: characterData.insight.levels[1].materials.join(', ') },
+          { name: 'Materials', value: characterData.insight.levels[1].materials.join('\n') },
           { name: '<:i3:1174155091054444597> Insight III', value: characterData.insight.levels[2].description },
-          { name: 'Materials', value: characterData.insight.levels[2].materials.join(', ') }
+          { name: 'Materials', value: characterData.insight.levels[2].materials.join('\n') }
         )
       } else {
         embed.addFields(
-          { name: '<:i1:1174155084846858360> Insight I', value: 'WIP' },
-          { name: 'Materials', value: characterData.insight.levels[0].materials.join(', ') },
-          { name: '<:i2:1174155086977573004> Insight II', value: 'WIP' },
-          { name: 'Materials', value: characterData.insight.levels[1].materials.join(', ') }
+          { name: '<:i1:1174155084846858360> Insight I', value: characterData.insight.levels[0].description },
+          { name: 'Materials', value: characterData.insight.levels[0].materials.join('\n') },
+          { name: '<:i2:1174155086977573004> Insight II', value: characterData.insight.levels[1].description },
+          { name: 'Materials', value: characterData.insight.levels[1].materials.join('\n') }
         )
       }
 
