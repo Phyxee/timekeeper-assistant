@@ -74,7 +74,7 @@ module.exports = {
 
     const embed = new EmbedBuilder()
       .setTitle(characterData.name)
-      .setURL('https://www.prydwen.gg/re1999/characters')
+      .setURL(CharacterData.url)
       .setDescription("**" + characterData.overview + "**")
       .setColor("#C27C0E")
       .setThumbnail(characterData.thumbnail)
@@ -178,7 +178,7 @@ function handleSelectMenuInteraction(
 
       const embed = new EmbedBuilder()
         .setTitle(characterData.name)
-        .setURL('https://www.prydwen.gg/re1999/characters')
+        .setURL(characterData.url)
         .setDescription("**" + characterData.overview + "**")
         .setColor("#C27C0E")
         .setThumbnail(characterData.thumbnail)
