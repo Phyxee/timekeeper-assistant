@@ -2687,5 +2687,999 @@
         "**Lv. 5**: **Minimalism and Maximalism's** effect changes to: deals **400%** Reality DMG."
       ]
     }
+  },
+  "APPLe": {
+    "name": "APPLe",
+    "url": "https://www.prydwen.gg/re1999/characters/apple",
+    "thumbnail": "https://www.prydwen.gg/static/0b98cc2a98a7711123e8fa39ae258700/60b4d/30_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Star",
+    "damageType": "Mental",
+    "overview": "DPS - Heal",
+    "insight": {
+      "name": "Wine",
+      "levels": [
+        {
+          "description": "When a round starts, HP +(Lost HP x8%) for all allies",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x4",
+            "<:silver_ore:1174245345144868895> Silver Ore: x4",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x2"
+          ]
+        },
+        {
+          "description": "When entering battle, Healing Done +10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x8",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x5",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Insignificant Achievements",
+      "thumbnail": "https://www.prydwen.gg/static/18aef3bba63978ec4d3660f7b163c6ae/9b438/apple1.webp",
+      "description": "Mass attack. Deals 300% Mental DMG to all enemies. HP +(the caster's ATK x100%) for the ally with the lowest HP percentage"
+    },
+    "skills": [
+      {
+        "name": "Iridescent White",
+        "thumbnail": "https://www.prydwen.gg/static/e1fa7d0a1ba5b13bd61f13fedbe2a987/f0036/apple2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Attack] 1-target attack. Deals 300% Mental DMG",
+          "[Attack] 1-target attack. Deals 500% Mental DMG"
+        ]
+      },
+      {
+        "name": "Equal Amount Of Light",
+        "thumbnail": "https://www.prydwen.gg/static/64f58d4850143875cfd54952f0ac2e7a/f0036/apple3.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 150% Mental DMG. HP +(the caster's ATK x40%) for the ally with the lowest HP",
+          "[Attack] 1-target attack. Deals 225% Mental DMG. HP +(the caster's ATK x60%) for the ally with the lowest HP",
+          "[Attack] 1-target attack. Deals 375% Mental DMG. HP +(the caster's ATK x100%) for the ally with the lowest HP"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Insignificant Achievement's** effect changes to: HP +(the caster's ATK x150%) for the ally with the lowest HP percentage.",
+        "**Lv. 2**: **Iridescent White's** effect changes to: at **1/2/3** stars, deals **220/330/550%** Mental DMG.",
+        "**Lv. 3**: **Equal Amount of Light's** effect changes to: at **1/2/3** stars, HP +(the caster's ATK x56/84/140%).",
+        "**Lv. 4**: **Insignificant Achievement's** effect changes to: HP +(the caster's ATK x200%) for the ally with the lowest HP percentage.",
+        "**Lv. 5**: **Insignificant Achievement's** effect changes to: HP +(the caster's ATK x250%) for the ally with the lowest HP percentage."
+      ]
+    }
+  },
+  "Bunny Bunny": {
+    "name": "Bunny Bunny",
+    "url": "https://www.prydwen.gg/re1999/characters/bunny-bunny",
+    "thumbnail": "https://www.prydwen.gg/static/67c433543a1f829dbbdca9732e4a6ffa/60b4d/14_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Beast",
+    "damageType": "Reality",
+    "overview": "Heal - Nasty Wound",
+    "insight": {
+      "name": "Best Employee",
+      "levels": [
+        {
+          "description": "Inflicts [Gracious Host] on all enemies for 2 rounds when the caster enters battle (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x4",
+            "<:silver_ore:1174245345144868895> Silver Ore: x4",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x2"
+          ]
+        },
+        {
+          "description": "+15% Crit DMG when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x8",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x5",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Bunny Medal Cert",
+      "thumbnail": "https://www.prydwen.gg/static/d0889adbf81f09ac1147f8ef2fa71eea/9b438/bunny1.webp",
+      "description": "Mass healing. Purifies [Stats Down], [Neg Status], and [Control] statuses for all allies and HP +(the caster's ATK x200%) for them"
+    },
+    "skills": [
+      {
+        "name": "Custom Bottle",
+        "thumbnail": "https://www.prydwen.gg/static/badca6cf05503665a7ae4dd65b5ff97c/f0036/bunny2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Reality DMG. This attack enjoys Critical Rate and Critical DMG +25%",
+          "[Attack] 1-target attack. Deals 240% Reality DMG. This attack enjoys Critical Rate and Critical DMG +25%",
+          "[Attack] 1-target attack. Deals 400% Reality DMG. This attack enjoys Critical Rate and Critical DMG +25%"
+        ]
+      },
+      {
+        "name": "Sweet Gloves",
+        "thumbnail": "https://www.prydwen.gg/static/d9304897c71cb5a9fe536c2b9b893386/f0036/bunny3.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Reality DMG",
+          "[Debuff] 1-target attack. Deals 250% Reality DMG and inflicts 2 rounds of [Nasty Wound]",
+          "[Debuff] 1-target attack. Deals 400% Reality DMG and inflicts 3 rounds of [Nasty Wound]"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Bunny Medal Cert's** effect changes to: HP+(the caster's ATK x220%) for all allies.",
+        "**Lv. 2**: **Custom Bottle's** effect changes to: this attack enjoys Critical Rate +30%, Critical DMG +30%.",
+        "**Lv. 3**: **Sweet Gloves's** effect changes to: deals **220/280/450%** Reality DMG.",
+        "**Lv. 4**: **Bunny Medal Cert's** effect changes to: HP+(the caster's ATK x240%) for all allies.",
+        "**Lv. 5**: **Bunny Medal Cert's** effect changes to: HP+(the caster's ATK x260%) for all allies."
+      ]
+    }
+  },
+  "Cristallo": {
+    "name": "Cristallo",
+    "url": "https://www.prydwen.gg/re1999/characters/cristallo",
+    "thumbnail": "https://www.prydwen.gg/static/17b9d2f0bd22309ff3d73d1b4bc3309e/60b4d/31_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Mineral",
+    "damageType": "Reality",
+    "overview": "Nasty Wound - Support",
+    "insight": {
+      "name": "Page Of Prayers",
+      "levels": [
+        {
+          "description": "When the caster is attacked, HP +(the caster's ATK x40%) for another ally with the lowest HP percentage",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x4",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x2",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x2"
+          ]
+        },
+        {
+          "description": "When entering battle, DMG Heal +10%.",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x8",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "This Is Radioteraphy",
+      "thumbnail": "https://www.prydwen.gg/static/440883ec8affd267c0448b1dc27d65e0/9b438/crist1.webp",
+      "description": "Mass debuff. Inflicts [Nasty Wound] and [Radiation Therapy] statuses on all enemies for 2 rounds. When the round ends, deals (the caster's ATK x100%) Genesis DMG to them"
+    },
+    "skills": [
+      {
+        "name": "Caged Bird",
+        "thumbnail": "https://www.prydwen.gg/static/75ecdd7c32d8c60c55a966ce55ec98a0/f0036/crist2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Reality DMG",
+          "[Debuff] 1-target attack. Deals 200% Reality DMG. Reality DEF -25% for the target for 2 rounds",
+          "[Debuff] 1-target attack. Deals 350% Reality DMG. Reality DEF -35% for the target for 2 rounds"
+        ]
+      },
+      {
+        "name": "Dustless Blossom",
+        "thumbnail": "https://www.prydwen.gg/static/0c8727d92304a6704af283f93c15e0d2/f0036/crist3.webp",
+        "levels": [
+          "[Buff] Mass buff. Gives all allies 1 stack of [Sturdiness]; Reality DEF and Mental DEF +10% for 2 rounds",
+          "[Buff] Mass buff. Gives all allies 1 stack of [Sturdiness]; Reality DEF and Mental DEF +15% for 2 rounds",
+          "[Buff] Mass buff. Gives all allies 1 stack of [Sturdiness]; Reality DEF and Mental DEF +20% for 2 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **This is Radiotherapy's** effect changes to: deals (the caster's ATK x110%) Genesis DMG.",
+        "**Lv. 2**: **Caged Bird's** effect changes to: at **2/3** stars, Reality DEF -30/40%.",
+        "**Lv. 3**: **This is Radiotherapy's** effect changes to: deals (the caster's ATK x120%) Genesis DMG.",
+        "**Lv. 4**: **This is Radiotherapy's** effect changes to: deals (the caster's ATK x130%) Genesis DMG.",
+        "**Lv. 5**: **This is Radiotherapy's** effect changes to: deals (the caster's ATK x140%) Genesis DMG."
+      ]
+    }
+  },
+  "Eagle": {
+    "name": "Eagle",
+    "url": "https://www.prydwen.gg/re1999/characters/eagle",
+    "thumbnail": "https://www.prydwen.gg/static/31edafc3aa5da6645493a6d2db7a8072/60b4d/25_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Plant",
+    "damageType": "Reality",
+    "overview": "Burst DMG - DPS",
+    "insight": {
+      "name": "Trainee",
+      "levels": [
+        {
+          "description": "Inflicts [Sense Weakness] status on the enemy with the highest ATK when the caster enters battle. When the caster dies, dispels [Sense Weakness] status",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x4",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x2",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x2"
+          ]
+        },
+        {
+          "description": "Critical DMG +15% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x8",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Between Superficiality And Reality",
+      "thumbnail": "https://www.prydwen.gg/static/3d23c25f5413170c0e6ae59c4daabad1/9b438/eagle1.webp",
+      "description": "1-target attack. Deals 400% Reality DMG. This attack enjoys Critical Rate +40%. Excess Critical Rate is converted to Critical DMG"
+    },
+    "skills": [
+      {
+        "name": "Old Pocket Watch",
+        "thumbnail": "https://www.prydwen.gg/static/2d8d3642555dd756c3e39a677b9d8f97/f0036/eagle2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 180% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack enjoys Leech Rate +10% and deals 20% more Reality DMG",
+          "[Attack] 1-target attack. Deals 270% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack enjoys Leech Rate +10% and deals 30% more Reality DMG",
+          "[Attack] 1-target attack. Deals 450% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack enjoys Leech Rate +10% and deals 50% more Reality DMG"
+        ]
+      },
+      {
+        "name": "Finger Lens",
+        "thumbnail": "https://www.prydwen.gg/static/40c6bf19a15d54b40ba0a00bee6ccae9/f0036/eagle3.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 120% Reality DMG to 2 enemies. This attack enjoys Penetration Rate +30%",
+          "[Attack] Mass attack. Deals 180% Reality DMG to 2 enemies. This attack enjoys Penetration Rate +30%",
+          "[Attack] Mass attack. Deals 300% Reality DMG to 2 enemies. This attack enjoys Penetration Rate +30%"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Between Superficiality and Reality's** effect changes to: Critical Rate +70%.",
+        "**Lv. 2**: **Old Pocket Watch's** effect changes to: at **1/2/3** stars, additionally deals **40/60/100%** Reality DMG to enemies in [Stats Down], [Neg Status], or [Control].",
+        "**Lv. 3**: **Finger Lens's** effect changes to: Penetration Rate +40%.",
+        "**Lv. 4**: **Between Superficiality and Reality's** effect changes to: Critical Rate +100%.",
+        "**Lv. 5**: **Old Pocket Watch's** effect changes to: this attack enjoys +20% Leech Rate against enemies in [Stats Down], [Neg Status], or [Control]."
+      ]
+    },
+    "Erick": {
+      "name": "Erick",
+      "url": "https://www.prydwen.gg/re1999/characters/erick",
+      "thumbnail": "https://www.prydwen.gg/static/c07e070f2ff69f0e5e92bbe41833ad4f/60b4d/37_icon.webp",
+      "rarity": "4✦",
+      "afflatus": "Star",
+      "damageType": "Reality",
+      "overview": "DPS - Dispeller",
+      "insight": {
+        "name": "Rhyme Of Victory",
+        "levels": [
+          {
+            "description": "When an enemy dies, DMG Dealt +10% for all allies for 2 rounds",
+            "materials": [
+              "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+              "<:page_star:1174241170214375536> Page Of Starlit Ascent: x4",
+              "<:trembling_tooth:1174251297671757877> Trembling Tooth: x4",
+              "<:rough_silver:1174250023639322654> Rough Silver Ingot: x2"
+            ]
+          },
+          {
+            "description": "DMG Dealt +8% when the caster enters battle",
+            "materials": [
+              "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+              "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x8",
+              "<:milled_magnesia:1174251282765189210> Milled Magnesia: x4",
+              "<:prophetic_bird:1174250347276030012> Prophetic Bird: x2"
+            ]
+          }
+        ]
+      },
+      "ultimate": {
+        "name": "GLory To The Jarl",
+        "thumbnail": "https://www.prydwen.gg/static/3fd9b84243238e585ead2ed3630213a0/9b438/erick1.webp",
+        "description": "1-target attack. Dispels [Stats Up], [Pos Status], and [Counter] statuses from the target and deals 450% Reality DMG. Also inflicts [Disarm] status on the target for 1 round"
+      },
+      "skills": [
+        {
+          "name": "Heavy Axe",
+          "thumbnail": "https://www.prydwen.gg/static/5c7487bb59f212fc0411f5d48013f789/f0036/erick2.webp",
+          "levels": [
+            "[Attack] 1-target attack. Deals 200% Reality DMG",
+            "[Debuff] 1-target attack. Deals 200% Reality DMG. Critical Resist Rate and Critical DEF -25% for the target for 1 round",
+            "[Debuff] 1-target attack. Deals 300% Reality DMG. Critical Resist Rate and Critical DEF -30% for the target for 1 round"
+          ]
+        },
+        {
+          "name": "Wooden Warship",
+          "thumbnail": "https://www.prydwen.gg/static/9c5f7db575cd6c162e86bf7ac38225c5/f0036/erick3.webp",
+          "levels": [
+            "[Attack] Mass attack. Deals 120% Reality DMG to 2 enemies. This attack enjoys Penetration Rate +30%",
+            "[Attack] Mass attack. Deals 180% Reality DMG to 2 enemies. This attack enjoys Penetration Rate +30%",
+            "[Attack] Mass attack. Deals 300% Reality DMG to 2 enemies. This attack enjoys Penetration Rate +30%"
+          ]
+        }
+      ],
+      "portray": {
+        "levels": [
+          "**Lv. 1**: **Glory to the Jarl's** effect changes to: deals **500%** Reality DMG.",
+          "**Lv. 2**: **Heavy Axe's** effect changes to: at **1/2/3** stars, deals **220/230/350%** Reality DMG.",
+          "**Lv. 3**: **Glory to the Jarl's** effect changes to: deals **550%** Reality DMG.",
+          "**Lv. 4**: **Wooden Warship's** effect changes to: Penetration Rate +40%.",
+          "**Lv. 5**: **Glory to the Jarl's** effect changes to: deals **600%** Reality DMG."
+        ]
+      }
+    }
+  },
+  "Mesmer Jr.": {
+    "name": "Mesmer Jr.",
+    "url": "https://www.prydwen.gg/re1999/characters/mesmer-jr",
+    "thumbnail": "https://www.prydwen.gg/static/5e7e86d302aa47444306d04ac1f98733/60b4d/36_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Intellect",
+    "damageType": "Mental",
+    "overview": "Support",
+    "insight": {
+      "name": "Blocking Agent",
+      "levels": [
+        {
+          "description": "At the end of every 2 rounds, inflicts 1 stack of [Stabilize] on the ally with the lowest HP percentage",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x2",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x2",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x2",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x2"
+          ]
+        },
+        {
+          "description": "Reality DEF and Mental DEF +10% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x4",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Artificial Somnabulism Therapy",
+      "thumbnail": "https://www.prydwen.gg/static/c51d9bccd4e87332ccce04ac0e5fbfab/9b438/mes1.webp",
+      "description": "Mass attack. Deals 200% Mental DMG and inflicts 1 stack of [Paralyze] on all enemies. Also inflicts 1 stack of [Paralyze] on the main target"
+    },
+    "skills": [
+      {
+        "name": "Magnetic Current",
+        "thumbnail": "https://www.prydwen.gg/static/8c6afbd4b9cdd426c93dc0ea9163daae/f0036/mes2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Attack] 1-target attack. Deals 250% Mental DMG and dispells all [Stats Up] and [Pos Status] statuses from the target",
+          "[Attack] 1-target attack. Deals 450% Mental DMG and dispells all [Stats Up] and [Pos Status] statuses from the target"
+        ]
+      },
+      {
+        "name": "Inhibition Ring",
+        "thumbnail": "https://www.prydwen.gg/static/9beec5a9369e69966657c193b4eba234/f0036/mes3.webp",
+        "levels": [
+          "[Buff] Mass buff. Mental DEF +10% for all allies for 2 rounds and gives the caster 1 stack of [Stabilize]",
+          "[Buff] Mass buff. Mental DEF +15% for all allies for 2 rounds. Inflicts 1 stack of [Stabilize] on them",
+          "[Buff] Mass buff. Mental DEF +20% for all allies for 2 rounds. Inflicts 1 stack of [Stabilize] on them"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Artificial Somnambulism Therapy's** effect changes to: deals **225%** Mental DMG.",
+        "**Lv. 2**: **Magnetic Current's** effect changes to: at **1/2/3** stars, deals **220/280/500%** Mental DMG.",
+        "**Lv. 3**: **Artificial Somnambulism Therapy's** effect changes to: deals **250%** Mental DMG.",
+        "**Lv. 4**: **Artificial Somnambulism Therapy's** effect changes to: deals **275%** Mental DMG.",
+        "**Lv. 5**: **Artificial Somnambulism Therapy's** effect changes to: deals **325%** Mental DMG."
+      ]
+    }
+  },
+  "Mondlicht": {
+    "name": "Mondlicht",
+    "url": "https://www.prydwen.gg/re1999/characters/mondlicht",
+    "thumbnail": "https://www.prydwen.gg/static/0eb23602ddfb949c579f7291d3879728/60b4d/50_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Mineral",
+    "damageType": "Reality",
+    "overview": "DPS",
+    "insight": {
+      "name": "Hunter Instinct",
+      "levels": [
+        {
+          "description": "After entering battle and for every 3 rounds afterwards, loads 1 [Silver Bullet]",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x4",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x3",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x2"
+          ]
+        },
+        {
+          "description": "ATK +5% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x8",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x2",
+            "<:biting_box:1174245727514402856> Biting Box: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "More Deadly Then The Big Bad Wolves",
+      "thumbnail": "https://www.prydwen.gg/static/46a333bb7b534cbc630506343db7c0de/9b438/mond1.webp",
+      "description": "1-target attack. Deals 450% Reality DMG. HP +(this attack's DMG x50%)"
+    },
+    "skills": [
+      {
+        "name": "A Silver Bullet",
+        "thumbnail": "https://www.prydwen.gg/static/6500eb2fabf3586ce262ef78af940a18/f0036/mond2.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 120% Reality DMG to 2 enemies. If the target's HP is above 50%, this attack also deals 50% more Reality DMG",
+          "[Attack] Mass attack. Deals 180% Reality DMG to 2 enemies. If the target's HP is above 50%, this attack also deals 75% more Reality DMG",
+          "[Attack] Mass attack. Deals 300% Reality DMG to 2 enemies. If the target's HP is above 50%, this attack also deals 125% more Reality DMG"
+        ]
+      },
+      {
+        "name": "A Dance",
+        "thumbnail": "https://www.prydwen.gg/static/1fac25cf1a0d53ec64f907d2321f912a/f0036/mond3.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 120% Reality DMG to 2 enemies. If the target's HP is below 50%, this attack also deals 50% more Reality DMG",
+          "[Attack] Mass attack. Deals 180% Reality DMG to 2 enemies. If the target's HP is below 50%, this attack also deals 75% more Reality DMG",
+          "[Attack] Mass attack. Deals 300% Reality DMG to 2 enemies. If the target's HP is below 50%, this attack also deals 125% more Reality DMG"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **More Deadly than the Big Bad Wolves's** effect changes to: deals **500%** Reality DMG.",
+        "**Lv. 2**: **A Silver Bullet's** effect changes to: additionally deals Reality DMG when target's HP is above 40%.",
+        "**Lv. 3**: **A Dance's** effect changes to: additionally deals Reality DMG when the target's HP is below 60%.",
+        "**Lv. 4**: **More Deadly than the Big Bad Wolves's** effect changes to: deals **550%** Reality DMG.",
+        "**Lv. 5**: **More Deadly than the Big Bad Wolves's** effect changes to: deals **600%** Reality DMG."
+      ]
+    }
+  },
+  "Ms. Moissan": {
+    "name": "Ms. Moissan",
+    "url": "https://www.prydwen.gg/re1999/characters/ms-moissan",
+    "thumbnail": "https://www.prydwen.gg/static/b376a2bfd52d4e0551815cba58db8bcb/60b4d/34_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Mineral",
+    "damageType": "Reality",
+    "overview": "Control - Shield",
+    "insight": {
+      "name": "Duty",
+      "levels": [
+        {
+          "description": "After the caster takes action, HP +(the caster's ATK x40%)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x4",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x2",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x2"
+          ]
+        },
+        {
+          "description": "When the caster enters battle, Penetration Rate +10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x8",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Unique Tools",
+      "thumbnail": "https://www.prydwen.gg/static/81e63680a25785337422f9a36ccec89e/9b438/msmo1.webp",
+      "description": "1-target attack. Deals 400% Reality DMG and inflicts [Freeze] on the target for 1 round"
+    },
+    "skills": [
+      {
+        "name": "Potter",
+        "thumbnail": "https://www.prydwen.gg/static/2eb2400157337af73ada0672dec711e8/f0036/msmo2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Reality DMG",
+          "[Attack] 1-target attack. Deals 250% Reality DMG and dispels all [Counter] from the target",
+          "[Attack] 1-target attack. Deals 450% Reality DMG and dispels all [Counter] from the target"
+        ]
+      },
+      {
+        "name": "Mentor",
+        "thumbnail": "https://www.prydwen.gg/static/9c18f3d99482e2a3bd143a7a4ff74116/f0036/msmo3.webp",
+        "levels": [
+          "[Buff] Mass buff. Gives all allies a [Shield] with (the caster's ATK x80%) HP for 2 rounds",
+          "[Buff] Mass buff. Gives all allies a [Shield] with (the caster's ATK x120%) HP for 2 rounds",
+          "[Buff] Mass buff. Gives all allies a [Shield] with (the caster's ATK x200%) HP for 2 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Unique Tool's** effect changes to: deals **450%** Reality DMG.",
+        "**Lv. 2**: **Potter's** effect changes to: at 1/2/3 stars, deals **220/280/500%** Reality DMG.",
+        "**Lv. 3**: **Unique Tool's** effect changes to: deals **500%** Reality DMG.",
+        "**Lv. 4**: **Mentor's** effect changes to: at 1/2/3 stars, grants a [Shield] with (the caster's ATK x90/135/225%) HP on all allies.",
+        "**Lv. 5**: **Unique Tool's** effect changes to: deals **550%** Reality DMG."
+      ]
+    }
+  },
+  "Nick Bottom": {
+    "name": "Nick Bottom",
+    "url": "https://www.prydwen.gg/re1999/characters/nick-bottom",
+    "thumbnail": "https://www.prydwen.gg/static/0ccfd2d9651162d54bbc06dba0ab6558/60b4d/24_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Beast",
+    "damageType": "Mental",
+    "overview": "Support",
+    "insight": {
+      "name": "In The Dust",
+      "levels": [
+        {
+          "description": "When the caster dies, HP +(the target's Max HP x50%) for the ally with the lowest HP percentage.",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x4",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x2"
+          ]
+        },
+        {
+          "description": "Reality DEF and Mental DEF +10% when the caster enters battle.",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x8",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x8",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Forest Eulogy",
+      "thumbnail": "https://www.prydwen.gg/static/bc899c37efdac6d017f766ba000bc329/9b438/nick1.webp",
+      "description": "1-target buff. HP -(Current HP x99%) to the caster, purifies [Stats Down], [Negative Status], and [Control] statuses from an ally, gains (HP Lost in this Action x100%) Shield, and enters [Summer Dream] status. Lasts 3 rounds"
+    },
+    "skills": [
+      {
+        "name": "Wild Rose",
+        "thumbnail": "https://www.prydwen.gg/static/915f4c37b644bf3c0e8a9651ac8c5266/f0036/nick2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Attack] 1-target attack. Deals 250% Mental DMG. Moxie -1 for the target",
+          "[Attack] 1-target attack. Deals 400% Mental DMG. Moxie -2 for the target"
+        ]
+      },
+      {
+        "name": "Midsummer Vine",
+        "thumbnail": "https://www.prydwen.gg/static/4f2aba0017d79a17fbf16c23f7bc1729/f0036/nick3.webp",
+        "levels": [
+          "[Buff] 1-target buff. Reality DEF and Mental DEF +25% and DMG Taken -25% for the target for 2 rounds",
+          "[Buff] 1-target buff. Reality DEF and Mental DEF +30% and DMG Taken -30% for the target for 2 rounds",
+          "[Buff] 1-target buff. Reality DEF and Mental DEF +35% and DMG Taken -35% for the target for 3 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Forest Eulogy's** effect changes to: inflicts a [Shield] with (the caster's Lost HP x125%) HP on all allies.",
+        "**Lv. 2**: **Wild Rose's** effect changes to: at 1/2/3 stars, deals **220/280/450%** Mental DMG.",
+        "**Lv. 3**: **Midsummer Vine's** effect changes to: at 1/2/3 stars, Reality DEF, Mental DEF, and DMG Taken Reduction +30/35/40%.",
+        "**Lv. 4**: **Forest Eulogy's** effect changes to: inflicts a [Shield] with (the caster's Lost HP x150%) HP on all allies.",
+        "**Lv. 5**: **Forest Eulogy's** effect changes to: inflicts a [Shield] with (the caster's Lost HP x175%) HP on all allies."
+      ]
+    }
+  },
+  "Oliver Fog": {
+    "name": "Oliver Fog",
+    "url": "https://www.prydwen.gg/re1999/characters/oliver-fog",
+    "thumbnail": "https://www.prydwen.gg/static/6e0b2ee16be33f73f50a3ec5d96b2863/60b4d/29_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Star",
+    "damageType": "Reality",
+    "overview": "DEF - Support",
+    "insight": {
+      "name": "Home Of The Fog",
+      "levels": [
+        {
+          "description": "When a round ends, loses (Current HP x15%) HP and gains a Shield with (HP Lost this time x 150%) HP which lasts until the start of the next round. While the Shield is active, DMG Taken -20%.",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x4",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x2"
+          ]
+        },
+        {
+          "description": "Reality DEF and Mental DEF +10% when the caster enters battle.",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:tome_star:1174243515266502726> Tome Of Starlint Ascent: x8",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x4",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Meaningless As Expected",
+      "thumbnail": "https://www.prydwen.gg/static/f6f7055cb393ff4c391d7775a91edd24/9b438/oli1.webp",
+      "description": "1-target attack. Deals 450% Reality DMG. This attack enjoys Penetration Rate +30%"
+    },
+    "skills": [
+      {
+        "name": "Working Hours",
+        "thumbnail": "https://www.prydwen.gg/static/cc0842c55ad2b816f088a9a96580e639/f0036/oli2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Reality DMG. This attack enjoys Leech Rate +30%",
+          "[Attack] 1-target attack. Deals 240% Reality DMG. This attack enjoys Leech Rate +30%",
+          "[Attack] 1-target attack. Deals 400% Reality DMG. This attack enjoys Leech Rate +30%"
+        ]
+      },
+      {
+        "name": "Ten Minutes Later",
+        "thumbnail": "https://www.prydwen.gg/static/52d4421511d86f752eb75b97d04b45d4/f0036/oli3.webp",
+        "levels": [
+          "[Buff] Mass buff. Gives all allies 1 stack of [Sturdiness]; Reality DEF and Mental DEF +10% for 2 rounds",
+          "[Buff] Mass buff. Gives all allies 1 stack of [Sturdiness]; Reality DEF and Mental DEF +15% for 2 rounds",
+          "[Buff] Mass buff. Gives all allies 1 stack of [Sturdiness]; Reality DEF and Mental DEF +20% for 2 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Meaningless as Expected's** effect changes to: deals **500%** Reality DMG.",
+        "**Lv. 2**: **Working Hours's** effect changes to: this attack enjoys Leech Rate +50%.",
+        "**Lv. 3**: **Meaningless as Expected's** effect changes to: Penetration Rate +40%.",
+        "**Lv. 4**: **Home of the Fog's** effect changes to: shield DMG of lost HP*200%.",
+        "**Lv. 5**: **Meaningless as Expected's** effect changes to: Penetration Rate +50%."
+      ]
+    }
+  },
+  "Pavia": {
+    "name": "Pavia",
+    "url": "https://www.prydwen.gg/re1999/characters/pavia",
+    "thumbnail": "https://www.prydwen.gg/static/62e5266c33ab2f06e7f5729c715d45a6/60b4d/28_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Beast",
+    "damageType": "Mental",
+    "overview": "DPS - Self Healing",
+    "insight": {
+      "name": "A Great Thing",
+      "levels": [
+        {
+          "description": "Every time an ally dies, DMG Dealt, Critical Rate and Critical Resist Rate +10%, and DMG Taken -10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x4",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x4",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x2"
+          ]
+        },
+        {
+          "description": "DMG Taken -8% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x8",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x3",
+            "<:holy_silver:1174251736542752778> Holy Silver: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Nosier Than Me",
+      "thumbnail": "https://www.prydwen.gg/static/af993cd2241dc6c43d40aee3be1ac15d/9b438/pavia1.webp",
+      "description": "1-target attack. Deals 400% Mental DMG. The caster enters [Self-healing] status for 3 rounds: When the round beings, HP +(Lost HP x25%) to the caster"
+    },
+    "skills": [
+      {
+        "name": "Dirty Things",
+        "thumbnail": "https://www.prydwen.gg/static/96ee345e6008493447b49a272a4a59a7/f0036/pavia2.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 120% Mental DMG to 2 enemies. If the caster's HP is above 50%, this attack deals 50% more Mental DMG",
+          "[Attack] Mass attack. Deals 180% Mental DMG to 2 enemies. If the caster's HP is above 50%, this attack deals 75% more Mental DMG",
+          "[Attack] Mass attack. Deals 300% Mental DMG to 2 enemies. If the caster's HP is above 50%, this attack deals 125% more Mental DMG"
+        ]
+      },
+      {
+        "name": "Poor Sod",
+        "thumbnail": "https://www.prydwen.gg/static/ea87c5605a697b240f9f3cb387ec65b3/f0036/pavia3.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 135% Mental DMG to 2 enemies. If the caster's HP is below 50%, then deals 40% more Mental DMG",
+          "[Attack] Mass attack. Deals 200% Mental DMG to 2 enemies. If the caster's HP is below 50%, then deals 60% more Mental DMG",
+          "[Attack] Mass attack. Deals 330% Mental DMG to 2 enemies. If the caster's HP is below 50%, then deals 100% more Mental DMG"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Noisier Than Me's** effect changes to: deals **475%** Mental DMG.",
+        "**Lv. 2**: **Dirty Thing's** effect changes to: at 1/2/3 stars, additionally deals **65/95/155%** Mental DMG.",
+        "**Lv. 3**: **Poor Sod's** effect changes to: at 1/2/3 stars, additionally deals **55/80/130%** Mental DMG.",
+        "**Lv. 4**: **Noisier Than Me's** effect changes to: deals **550%** Mental DMG.",
+        "**Lv. 5**: **Noisier Than Me's** effect changes to: deals **600%** Mental DMG. [Self-healing] status: HP +(the caster's Lost HP x35%)."
+      ]
+    }
+  },
+  "Poltergeist": {
+    "name": "Poltergeist",
+    "url": "https://www.prydwen.gg/re1999/characters/poltergeist",
+    "thumbnail": "https://www.prydwen.gg/static/3520e74734586716e391bba08740bb1e/60b4d/35_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Spirit",
+    "damageType": "Mental",
+    "overview": "DEF - Debuff",
+    "insight": {
+      "name": "Good Girl",
+      "levels": [
+        {
+          "description": "When the caster enters battle, enters [Concealment] status for 2 rounds (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x2",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x2",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x4",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x2"
+          ]
+        },
+        {
+          "description": "When entering battle, DMG Heal +10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x4",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x4",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x3",
+            "<:holy_silver:1174251736542752778> Holy Silver: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "The Sun Is Not Gentle",
+      "thumbnail": "https://www.prydwen.gg/static/4d696ad55d672a028662879e81f2ddcb/9b438/pol1.webp",
+      "description": "Self counter. Enters [Taunt]: DMG Taken -20% and DMG Heal +20% for 3 rounds. Also enters [Concealment] for 1 round"
+    },
+    "skills": [
+      {
+        "name": "Prank",
+        "thumbnail": "https://www.prydwen.gg/static/3e545c5b30cb49a3b6270dee3d187201/f0036/pol2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Mental DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 240% Mental DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 400% Mental DMG. This attack enjoys Penetration Rate +30%"
+        ]
+      },
+      {
+        "name": "Whispering Words",
+        "thumbnail": "https://www.prydwen.gg/static/5b65c35210faf2d920d4014c90a20654/f0036/pol3.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Debuff] 1-target attack. Deals 200% Mental DMG. Mental DEF -25% for the target for 2 rounds",
+          "[Debuff] 1-target attack. Deals 350% Mental DMG. Mental DEF -35% for the target for 3 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **The Sun Is Not Gentle's** effect changes to: DMG Heal Rate +35%.",
+        "**Lv. 2**: **Prank's** effect changes to: Penetration Rate +40%.",
+        "**Lv. 3**: **The Sun Is Not Gentle's** effect changes to: DMG Taken -35%.",
+        "**Lv. 4**: **Whispering Words's** effect changes to: at 1/2/3 stars, deals **220/230/400%** Mental DMG.",
+        "**Lv. 5**: **The Sun Is Not Gentle's** effect changes to: DMG Heal Rate +50%."
+      ]
+    }
+  },
+  "Rabies": {
+    "name": "Rabies",
+    "url": "https://www.prydwen.gg/re1999/characters/rabies",
+    "thumbnail": "https://www.prydwen.gg/static/baf633c301417abe021c5a6d8baea264/60b4d/33_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Plant",
+    "damageType": "Reality",
+    "overview": "DPS - Poison",
+    "insight": {
+      "name": "Sequla",
+      "levels": [
+        {
+          "description": "After the caster attacks, the target suffers 1 round of [Poison]: when round ends, takes Rabies's ATK x30% Genesis DMG",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x4",
+            "<:silver_ore:1174245345144868895> Silver Ore: x4",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x2"
+          ]
+        },
+        {
+          "description": "ATK +5% when the caster enters battle.",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x8",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x5",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Dedicated Straw Doctor",
+      "thumbnail": "https://www.prydwen.gg/static/61444fcf9f7d5668a9fd2f0e8d4cbab5/9b438/rab1.webp",
+      "description": "Mass attack. Deals 250% Reality DMG to all enemies. This attack enjoys Penetration Rate +30%"
+    },
+    "skills": [
+      {
+        "name": "Rabies",
+        "thumbnail": "https://www.prydwen.gg/static/ad70cf2f18c1f49af6c4200bc2143949/f0036/rab2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 180% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack also deals 40% more Reality DMG",
+          "[Attack] 1-target attack. Deals 270% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack also deals 60% more Reality DMG",
+          "[Attack] 1-target attack. Deals 450% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack also deals 100% more Reality DMG"
+        ]
+      },
+      {
+        "name": "Noise In The Field",
+        "thumbnail": "https://www.prydwen.gg/static/245930c84a996bcd880539bb87130afc/f0036/rab3.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 120% Reality DMG to 2 enemies. If the target's HP is above 50%, this attack also deals 50% more Reality DMG",
+          "[Attack] Mass attack. Deals 180% Reality DMG to 2 enemies. If the target's HP is above 50%, this attack also deals 75% more Reality DMG",
+          "[Attack] Mass attack. Deals 300% Reality DMG to 2 enemies. If the target's HP is above 50%, this attack also deals 125% more Reality DMG"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Dedicated Straw Doctor's** effect changes to: deals **300%** Reality DMG.",
+        "**Lv. 2**: **Rabies's** effect changes to: at 1/2/3 stars, additionally deals **65/95/160%** Reality DMG to enemies in [Stats Down], [Neg Status], or [Control].",
+        "**Lv. 3**: **Dedicated Straw Doctor's** effect changes to: this attack enjoys Penetration Rate +40%.",
+        "**Lv. 4**: **Noise in the Field's** effect changes to: additionally deals Reality DMG when the target's HP is above 40%.",
+        "**Lv. 5**: **Dedicated Straw Doctor's** effect changes to: this attack enjoys Penetration Rate +50%."
+      ]
+    }
+  },
+  "TTT": {
+    "name": "TTT",
+    "url": "https://www.prydwen.gg/re1999/characters/ttt",
+    "thumbnail": "https://www.prydwen.gg/static/a8f04e0852e4b98a4f592d7288b3893a/60b4d/32_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Star",
+    "damageType": "Mental",
+    "overview": "DEF - Dispeller",
+    "insight": {
+      "name": "Privacy Policy",
+      "levels": [
+        {
+          "description": "When a round starts, if the caster's HP is below 50%, enters [Concealment] status for 2 rounds (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x4",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x3",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x2"
+          ]
+        },
+        {
+          "description": "ATK +5% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x8",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x2",
+            "<:biting_box:1174245727514402856> Biting Box: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Unplug It, Now!",
+      "thumbnail": "https://www.prydwen.gg/static/c22182918d33b86f8400cfdb307778a1/9b438/ttt1.webp",
+      "description": "Mass attack. Deals 200% Mental DMG and inflicts 2 rounds of [Disconcert] to all enemies"
+    },
+    "skills": [
+      {
+        "name": "Cyber Defense",
+        "thumbnail": "https://www.prydwen.gg/static/3559aa798f3e44fb8e7ebb33c1decb5a/f0036/ttt2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Attack] 1-target attack. Deals 250% Mental DMG and dispels all [Counter] from the target",
+          "[Attack] 1-target attack. Deals 450% Mental DMG and dispels all [Counter] from the target"
+        ]
+      },
+      {
+        "name": "Electricty Security",
+        "thumbnail": "https://www.prydwen.gg/static/fe0d2a6dc72ea30e8cf2e9a450d42d09/f0036/ttt3.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Mental DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 240% Mental DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 400% Mental DMG. This attack enjoys Penetration Rate +30%"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Unplug It, Now!'s** effect changes to: deals **225%** Mental DMG.",
+        "**Lv. 2**: **Cyber Defense's** effect changes to: at 1/2/3 stars, deals **220/280/500%** Mental DMG.",
+        "**Lv. 3**: **Unplug It, Now!'s** effect changes to: deals **275%** Mental DMG.",
+        "**Lv. 4**: **Electricity Security's** effect changes to: this attack enjoys Penetration Rate +40%.",
+        "**Lv. 5**: **Unplug It, Now!'s** effect changes to: deals **300%** Mental DMG."
+      ]
+    }
+  },
+  "Зима (Winter)": {
+    "name": "Зима (Winter)",
+    "url": "https://www.prydwen.gg/re1999/characters/winter",
+    "thumbnail": "https://www.prydwen.gg/static/7a64fae5a506e89f81da314d342f27de/60b4d/26_icon.webp",
+    "rarity": "4✦",
+    "afflatus": "Plant",
+    "damageType": "Mental",
+    "overview": "Support - Control",
+    "insight": {
+      "name": "Island",
+      "levels": [
+        {
+          "description": "When the caster attacks, if the caster's HP is above 50%, Penetration Rate +10%. When the caster is attacked, if the caster's HP is below 50%, DMG Taken -10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x8 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x4",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x2",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x2"
+          ]
+        },
+        {
+          "description": "DMG Dealt +8% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x25 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x8",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x5",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Poem, Island, Breeze",
+      "thumbnail": "https://www.prydwen.gg/static/35b606b85c8e7173025d364a46513ab3/9b438/zima1.webp",
+      "description": "Mass attack. Deals 250% Mental DMG to all enemies and inflicts [Seal] on the main target for 2 rounds"
+    },
+    "skills": [
+      {
+        "name": "Sparrow",
+        "thumbnail": "https://www.prydwen.gg/static/1e15cff28310c59ea042dd24bda78409/f0036/zima2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Debuff] 1-target attack. Deals 200% Mental DMG and inflicts [Silence] status for 1 round",
+          "[Debuff] 1-target attack. Deals 300% Mental DMG and inflicts [Silence] status for 2 rounds"
+        ]
+      },
+      {
+        "name": "Paper",
+        "thumbnail": "https://www.prydwen.gg/static/23db3a5192ba898de8eed34e5953f5aa/f0036/zima3.webp",
+        "levels": [
+          "[Buff] Mass buff. DMG Dealt +15% and DMG Heal +15% for all allies for 2 rounds",
+          "[Buff] Mass buff. DMG Dealt +20% and DMG Heal +20% for all allies for 2 rounds",
+          "[Buff] Mass buff. DMG Dealt +25% and DMG Heal +25% for all allies for 3 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Poem, Island, Breeze's** effect changes to: deals **280%** Mental DMG.",
+        "**Lv. 2**: **Sparrow's** effect changes to: at 1/2/3 stars, deals **220/230/350%** Mental DMG.",
+        "**Lv. 3**: **Paper's** effect changes to: at 1/2/3 stars, DMG Heal +20/25/30%.",
+        "**Lv. 4**: **Poem, Island, Breeze's** effect changes to: deals **310%** Mental DMG.",
+        "**Lv. 5**: **Poem, Island, Breeze's** effect changes to: deals **350%** Mental DMG."
+      ]
+    }
   }
 }
