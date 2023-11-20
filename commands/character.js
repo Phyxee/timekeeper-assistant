@@ -96,7 +96,6 @@ module.exports = {
       components: [categoryRow],
     });
 
-    // Collector
     const filter = (i) => i.user.id === interaction.user.id;
     const buttonCollector = reply.createMessageComponentCollector({
       componentType: ComponentType.Button,
@@ -153,7 +152,7 @@ module.exports = {
   },
 };
 
-// Handler
+// Utils
 function handleSelectMenuInteraction(
   interaction,
   characterData,
@@ -192,7 +191,6 @@ function handleSelectMenuInteraction(
         embeds: [embed],
         components: [categoryRow],
       });
-
     } else if (chosenValue === "Skills") {
       btnUltimate.setStyle(ButtonStyle.Primary);
       btnSkill1.setStyle(ButtonStyle.Secondary);
@@ -216,7 +214,6 @@ function handleSelectMenuInteraction(
         embeds: [embed],
         components: [categoryRow, buttonRow],
       });
-
     } else if (chosenValue === "Insight") {
       optionOverview.setDefault(false);
       optionSkills.setDefault(false);
@@ -231,29 +228,58 @@ function handleSelectMenuInteraction(
         .setTitle(characterData.insight.name)
         .setColor("#C27C0E");
 
-      if (characterData.rarity == '6✦' || characterData.rarity == '5✦') {
+      if (characterData.rarity == "6✦" || characterData.rarity == "5✦") {
         embed.addFields(
-          { name: '<:i1:1174155084846858360> Insight I', value: characterData.insight.levels[0].description },
-          { name: 'Materials', value: characterData.insight.levels[0].materials.join('\n') },
-          { name: '<:i2:1174155086977573004> Insight II', value: characterData.insight.levels[1].description },
-          { name: 'Materials', value: characterData.insight.levels[1].materials.join('\n') },
-          { name: '<:i3:1174155091054444597> Insight III', value: characterData.insight.levels[2].description },
-          { name: 'Materials', value: characterData.insight.levels[2].materials.join('\n') }
-        )
+          {
+            name: "<:i1:1174155084846858360> Insight I",
+            value: characterData.insight.levels[0].description,
+          },
+          {
+            name: "Materials",
+            value: characterData.insight.levels[0].materials.join("\n"),
+          },
+          {
+            name: "<:i2:1174155086977573004> Insight II",
+            value: characterData.insight.levels[1].description,
+          },
+          {
+            name: "Materials",
+            value: characterData.insight.levels[1].materials.join("\n"),
+          },
+          {
+            name: "<:i3:1174155091054444597> Insight III",
+            value: characterData.insight.levels[2].description,
+          },
+          {
+            name: "Materials",
+            value: characterData.insight.levels[2].materials.join("\n"),
+          }
+        );
       } else {
         embed.addFields(
-          { name: '<:i1:1174155084846858360> Insight I', value: characterData.insight.levels[0].description },
-          { name: 'Materials', value: characterData.insight.levels[0].materials.join('\n') },
-          { name: '<:i2:1174155086977573004> Insight II', value: characterData.insight.levels[1].description },
-          { name: 'Materials', value: characterData.insight.levels[1].materials.join('\n') }
-        )
+          {
+            name: "<:i1:1174155084846858360> Insight I",
+            value: characterData.insight.levels[0].description,
+          },
+          {
+            name: "Materials",
+            value: characterData.insight.levels[0].materials.join("\n"),
+          },
+          {
+            name: "<:i2:1174155086977573004> Insight II",
+            value: characterData.insight.levels[1].description,
+          },
+          {
+            name: "Materials",
+            value: characterData.insight.levels[1].materials.join("\n"),
+          }
+        );
       }
 
       interaction.update({
         embeds: [embed],
         components: [categoryRow],
       });
-
     } else if (chosenValue === "Portray") {
       optionOverview.setDefault(false);
       optionSkills.setDefault(false);
@@ -266,7 +292,7 @@ function handleSelectMenuInteraction(
           iconURL: characterData.thumbnail,
         })
         .setTitle(characterData.name + " Portray Details")
-        .setDescription(characterData.portray.levels.join('\n'))
+        .setDescription(characterData.portray.levels.join("\n"))
         .setColor("#C27C0E");
 
       interaction.update({
@@ -353,7 +379,6 @@ function handleButtonInteraction(
   }
 }
 
-// Utils
 function createStringSelectMenuOption(label, description, emoji, isDefault) {
   return new StringSelectMenuOptionBuilder()
     .setLabel(label)
@@ -371,7 +396,12 @@ function createButton(customId, emoji, style) {
     .setStyle(style);
 }
 
-function disableInteractions(selectCategory, btnUltimate, btnSkill1, btnSkill2) {
+function disableInteractions(
+  selectCategory,
+  btnUltimate,
+  btnSkill1,
+  btnSkill2
+) {
   selectCategory.setDisabled(true);
   btnUltimate.setDisabled(true);
   btnSkill1.setDisabled(true);

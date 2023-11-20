@@ -3681,5 +3681,794 @@
         "**Lv. 5**: **Poem, Island, Breeze's** effect changes to: deals **350%** Mental DMG."
       ]
     }
+  },
+  "aliEn T": {
+    "name": "aliEn T",
+    "url": "https://www.prydwen.gg/re1999/characters/alien-t",
+    "thumbnail": "https://www.prydwen.gg/static/6cf6ab0fdd35e80dcab03911bf5f9ecc/60b4d/40_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Star",
+    "damageType": "Reality",
+    "overview": "DEF - Control",
+    "insight": {
+      "name": "Do Not Respond!",
+      "levels": [
+        {
+          "description": "When the caster enters battle, enters [Taunt] status and gains a [Shield] with (aliEn T's Reality DEF x300%) HP for 2 rounds (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x2",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x2"
+          ]
+        },
+        {
+          "description": "DMG Taken -8% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x4",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x2",
+            "<:holy_silver:1174251736542752778> Holy Silver: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Future Interstellar War: Prelude",
+      "thumbnail": "https://www.prydwen.gg/static/7177131996954c9c6d0e31a809a8fc73/9b438/alien1.webp",
+      "description": "Mass attack. Deals 200% Reality DMG and inflicts 1 round of [Disarm] and [Silence] statuses on all enemies"
+    },
+    "skills": [
+      {
+        "name": "The Witnessed",
+        "thumbnail": "https://www.prydwen.gg/static/ea437f325549c03c6580c9ab62466ce9/f0036/alien2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Reality DMG. If the target's current HP is above 50%, then deals 60% more Reality DMG",
+          "[Attack] 1-target attack. Deals 240% Reality DMG. If the target's current HP is above 50%, then deals 90% more Reality DMG",
+          "[Attack] 1-target attack. Deals 400% Reality DMG. If the target's current HP is above 50%, then deals 150% more Reality DMG"
+        ]
+      },
+      {
+        "name": "No Ill Intent",
+        "thumbnail": "https://www.prydwen.gg/static/247999d535adc3f4bd874d6c64a19f76/f0036/alien3.webp",
+        "levels": [
+          "[Counter] Self counter. Enter [Taunt] and DMG Taken -40% for 1 round",
+          "[Counter] Self counter. Enter [Taunt] and DMG Taken -40% for 2 rounds",
+          "[Counter] Self counter. Enter [Taunt] and DMG Taken -60% for 3 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Future Interstellar War: Prelude's** effect changes to: deals **230%** Reality DMG.",
+        "**Lv. 2**: **The Witnessed's** effect changes to: additionally deals Reality DMG when the target's HP is above 40%.",
+        "**Lv. 3**: **Future Interstellar War: Prelude's** effect changes to: deals **270%** Reality DMG.",
+        "**Lv. 4**: **The Witnessed's** effect changes to: additionally deals Reality DMG when the target's HP is above 30%.",
+        "**Lv. 5**: **Future Interstellar War: Prelude's** effect changes to: deals **300%** Reality DMG."
+      ]
+    }
+  },
+  "Bette": {
+    "name": "Bette",
+    "url": "https://www.prydwen.gg/re1999/characters/bette",
+    "thumbnail": "https://www.prydwen.gg/static/c4196c4d2986c2ff56d7e8b8caf5a08a/60b4d/44_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Mineral",
+    "damageType": "Reality",
+    "overview": "Shield - Support",
+    "insight": {
+      "name": "Inspiring Story",
+      "levels": [
+        {
+          "description": "After casting the Ultimate, Moxie +1 for the ally with the lowest Moxie",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x2",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x2"
+          ]
+        },
+        {
+          "description": "DMG Taken -8% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x4",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x2",
+            "<:biting_box:1174245727514402856> Biting Box: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Every Audition",
+      "thumbnail": "https://www.prydwen.gg/static/a5c83a839f7182034eb5e5d18f6bc8db/9b438/bette1.webp",
+      "description": "1-target buff. Gives one selected ally a [Shield] with (the caster's ATK x100%) HP and inflicts [Empower Incantation II] on the target for 2 rounds"
+    },
+    "skills": [
+      {
+        "name": "Classic Shot",
+        "thumbnail": "https://www.prydwen.gg/static/77313307ef83b094914bd9a3d7bbb784/f0036/bette2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Reality DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 240% Reality DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 400% Reality DMG. This attack enjoys Penetration Rate +30%"
+        ]
+      },
+      {
+        "name": "Important Part",
+        "thumbnail": "https://www.prydwen.gg/static/1061d3d9876cb5159718d0205d21ac3c/f0036/bette3.webp",
+        "levels": [
+          "[Buff] 1-target buff. Reality DEF and Mental DEF +25% and DMG Taken -25% for the target for 2 rounds",
+          "[Buff] 1-target buff. Reality DEF and Mental DEF +30% and DMG Taken -30% for the target for 2 rounds",
+          "[Buff] 1-target buff. Reality DEF and Mental DEF +35% and DMG Taken -35% for the target for 3 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Every Audition's** effect changes to: inflicts a [Shield] with (the caster's ATK x130%) HP on a single ally.",
+        "**Lv. 2**: **Classic Shot's** effect changes to Penetration Rate +40%.",
+        "**Lv. 3**: **Every Audition's** effect changes to: inflicts a [Shield] with (the caster's ATK x160%) HP on a single ally.",
+        "**Lv. 4**: **Every Audition's** effect changes to: inflicts a [Shield] with (the caster's ATK x200%) HP on a single ally.",
+        "**Lv. 5**: **Every Audition's** effect changes to: inflicts a [Shield] with (the caster's ATK x250%) HP on a single ally."
+      ]
+    }
+  },
+  "Darley Clatter": {
+    "name": "Darley Clatter",
+    "url": "https://www.prydwen.gg/re1999/characters/darley-clatter",
+    "thumbnail": "https://www.prydwen.gg/static/e2d29a713c58c599f6a55423eb08e5fa/60b4d/45_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Beast",
+    "damageType": "Mental",
+    "overview": "Support",
+    "insight": {
+      "name": "Glory Restored",
+      "levels": [
+        {
+          "description": "If the caster's HP goes below 50% after being attacked, Moxie +3 (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x2",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x2"
+          ]
+        },
+        {
+          "description": "When entering battle, DMG Heal +10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x2",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Great Inspirer",
+      "thumbnail": "https://www.prydwen.gg/static/04004856c9f6b13cc3ced3244facd6f1/9b438/darl1.webp",
+      "description": "Mass buff. Moxie +1 and 3 rounds of DMG Bonus +30% for other allies. HP +(Lost HP x15%)"
+    },
+    "skills": [
+      {
+        "name": "Clatter Temple",
+        "thumbnail": "https://www.prydwen.gg/static/09b5324f0d42c74fda526a6a280a8fde/f0036/darl2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Mental DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 240% Mental DMG. This attack enjoys Penetration Rate +30%",
+          "[Attack] 1-target attack. Deals 400% Mental DMG. This attack enjoys Penetration Rate +30%"
+        ]
+      },
+      {
+        "name": "Commanding Aura",
+        "thumbnail": "https://www.prydwen.gg/static/9c4b9a91afaf652a69e8eea9fe838d48/f0036/darl3.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 150% Mental DMG. HP +(the caster's ATK x40%) for the ally with the lowest HP",
+          "[Attack] 1-target attack. Deals 225% Mental DMG. HP +(the caster's ATK x60%) for the ally with the lowest HP",
+          "[Attack] 1-target attack. Deals 375% Mental DMG. HP +(the caster's ATK x100%) for the ally with the lowest HP"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Great Inspirer's** effect changes to: Moxie +2 for other allies.",
+        "**Lv. 2**: **Clatter Trample's** effect changes to: Penetration Rate +40%.",
+        "**Lv. 3**: **Great Inspirer's** effect changes to: DMG Dealt 35% for all allies.",
+        "**Lv. 4**: **Commanding Aura's** effect changes to: at 1/2/3 stars, HP +(the caster's ATK x56/84/140%) for the ally with the lowest HP percentage.",
+        "**Lv. 5**: **Great Inspirer's** effect changes to: HP +(Lost HP x25%) for the caster."
+      ]
+    }
+  },
+  "John Titor": {
+    "name": "John Titor",
+    "url": "https://www.prydwen.gg/re1999/characters/john-titor",
+    "thumbnail": "https://www.prydwen.gg/static/b431c657565be0a450c966d4380aee05/60b4d/42_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Intellect",
+    "damageType": "Reality",
+    "overview": "Dispeller - Purify",
+    "insight": {
+      "name": "Garbled Coding Log",
+      "levels": [
+        {
+          "description": "After the caster acts, HP +(Lost HP x15%)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x1",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x1",
+            "<:silver_ore:1174245345144868895> Silver Ore: x2"
+          ]
+        },
+        {
+          "description": "When entering battle, DMG Heal +10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x2",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x2",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x2",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "65,536 Bytes",
+      "thumbnail": "https://www.prydwen.gg/static/2ac5aea5be9281df6b8678b4136ec527/9b438/jtitor1.webp",
+      "description": "Mass buff. Dispels [Stats Up], [Pos Status], and [Counter] statuses from all enemies. Purifies [Stats Down], [Neg Status], and [Control] from all allies. All allies also gain (the caster's ATK x100%) [Shield] for 3 rounds"
+    },
+    "skills": [
+      {
+        "name": "Not A Decoration",
+        "thumbnail": "https://www.prydwen.gg/static/76aea146f040d62d375370b9328235ad/f0036/jtitor2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Reality DMG",
+          "[Attack] 1-target attack. Deals 300% Reality DMG",
+          "[Attack] 1-target attack. Deals 500% Reality DMG"
+        ]
+      },
+      {
+        "name": "A True Genius",
+        "thumbnail": "https://www.prydwen.gg/static/6520409e5fa1b761e1d8054bb4317a53/f0036/jtitor3.webp",
+        "levels": [
+          "[Health] Self heal. Grants DMG Dealt +20% and enters [Self-healing]: When a round starts, HP +(Lost HP x20%). Lasts 2 rounds",
+          "[Health] Self heal. Grants DMG Dealt +25% and enters [Self-healing]: When a round starts, HP +(Lost HP x25%). Lasts 2 rounds",
+          "[Health] Self heal. Grants DMG Dealt +35% and enters [Self-healing]: When a round starts, HP +(Lost HP x35%). Lasts 2 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **65,536 Bytes's** effect changes to: inflicts a [Shield] with (the caster's ATK x130%) HP on all allies.",
+        "**Lv. 2**: **Not a Decoration!'s** effect changes to: at 1/2/3 stars, deals 220/330/550% Reality DMG.",
+        "**Lv. 3**: **65,536 Bytes's** effect changes to: inflicts a [Shield] with (the caster's ATK x160%) HP on all allies.",
+        "**Lv. 4**: **A True Genius!'s** effect changes to: at 1/2/3 stars, DMG Dealt +25/30/40% for the caster.",
+        "**Lv. 5**: **65,536 Bytes's** effect changes to: inflicts a [Shield] with (the caster's ATK x200%) HP on all allies."
+      ]
+    }
+  },
+  "La Source": {
+    "name": "La Source",
+    "url": "https://www.prydwen.gg/re1999/characters/la-source",
+    "thumbnail": "https://www.prydwen.gg/static/173f5d56ffa57adefda57b71d055aef3/60b4d/39_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Plant",
+    "damageType": "Mental",
+    "overview": "Heal",
+    "insight": {
+      "name": "Potion Of Regret",
+      "levels": [
+        {
+          "description": "After the caster enters battle, inflicts [You Wish!] status on the enemy with the highest ATK for 3 rounds (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x2",
+            "<:silver_ore:1174245345144868895> Silver Ore: x2"
+          ]
+        },
+        {
+          "description": "When entering battle, DMG Heal +10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x4",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x2",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Another Version Of The Legend",
+      "thumbnail": "https://www.prydwen.gg/static/9db3db17d5b58d889b8ebe9253f24bec/9b438/las1.webp",
+      "description": "1-target attack. Deals 400% Mental DMG. Moxie -2 for the target"
+    },
+    "skills": [
+      {
+        "name": "\"Spring Fay\"",
+        "thumbnail": "https://www.prydwen.gg/static/a2333530e9b79c8275cdcdf7e40ee834/f0036/las2.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 150% Mental DMG to 2 enemies",
+          "[Attack] Mass attack. Deals 225% Mental DMG to 2 enemies",
+          "[Attack] Mass attack. Deals 375% Mental DMG to 2 enemies"
+        ]
+      },
+      {
+        "name": "Spring Fay",
+        "thumbnail": "https://www.prydwen.gg/static/4a867b7e030020842bc6a5cf6c1258df/f0036/las3.webp",
+        "levels": [
+          "[Health] Mass healing. HP +(the caster's ATK x80%) for all allies",
+          "[Health] Mass healing. HP +(the caster's ATK x120%) for all allies",
+          "[Health] Mass healing. HP +(the caster's ATK x200%) for all allies"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Another Version of the Legend's** effect changes to: additionally Moxie -1.",
+        "**Lv. 2**: **\"Spring Fay\"'s** effect changes to: at 1/2/3 stars, deals 165/245/400% Mental DMG.",
+        "**Lv. 3**: **Another Version of the Legend's** effect changes to: additionally Moxie -1.",
+        "**Lv. 4**: **Spring Fay's** effect changes to: at 1/2/3 stars, HP +(the caster's ATK x90/135/220%) for all allies.",
+        "**Lv. 5**: **Another Version of the Legend's** effect changes to: additionally Moxie -1."
+      ]
+    }
+  },
+  "Leilani": {
+    "name": "Leilani",
+    "url": "https://www.prydwen.gg/re1999/characters/leilani",
+    "thumbnail": "https://www.prydwen.gg/static/30e7f4de8a38e2c4e5fb61ee96527b52/60b4d/41_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Beast",
+    "damageType": "Reality",
+    "overview": "Support - DPS",
+    "insight": {
+      "name": "Born Socializer",
+      "levels": [
+        {
+          "description": "When the caster enters battle, Moxie +1 for all allies and additionally Moxie +1 for the caster (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x2",
+            "<:silver_ore:1174245345144868895> Silver Ore: x2"
+          ]
+        },
+        {
+          "description": "DMG Dealt +8% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x4",
+            "<:spell_fortune:1174245342712184912> Spell Of Fortune: x2",
+            "<:bifurcated_skeleton:1174252244057718844> Bifurcated Skeleton: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Hawaiian Archery",
+      "thumbnail": "https://www.prydwen.gg/static/d6a9d00d578e27fbdb2bd5ff80818516/9b438/lei1.webp",
+      "description": "Mass attack. Deals 300% Reality DMG to all enemies. Moxie +1 for other allies"
+    },
+    "skills": [
+      {
+        "name": "A Greeting!",
+        "thumbnail": "https://www.prydwen.gg/static/9c75020e80b9d11fa4baac51f8343a38/f0036/lei2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 180% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack also deals 40% more Reality DMG",
+          "[Attack] 1-target attack. Deals 270% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack also deals 60% more Reality DMG",
+          "[Attack] 1-target attack. Deals 450% Reality DMG. If the target is in [Stats Down], [Neg Status], or [Control] statuses, this attack also deals 100% more Reality DMG"
+        ]
+      },
+      {
+        "name": "Check Carefully",
+        "thumbnail": "https://www.prydwen.gg/static/45e551245c1600e0144cf3389fff4204/f0036/lei3.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Reality DMG. If the target's current HP is below 50%, then deals 60% more Reality DMG",
+          "[Attack] 1-target attack. Deals 240% Reality DMG. If the target's current HP is below 50%, then deals 90% more Reality DMG",
+          "[Attack] 1-target attack. Deals 400% Reality DMG. If the target's current HP is below 50%, then deals 150% more Reality DMG"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Hawaiian Archery's** effect changes to: additionally Moxie +1.",
+        "**Lv. 2**: **A Greeting's** effect changes to: additionally deals 65/95/160% Reality DMG to enemies in [Stats Down], [Neg Status], or [Control].",
+        "**Lv. 3**: **Hawaiian Archery's** effect changes to: deals 350% Reality DMG.",
+        "**Lv. 4**: **Check Carefully's** effect changes to: additionally deals 85/125/210% Reality DMG to enemies with HP below 50%.",
+        "**Lv. 5**: **Hawaiian Archery's** effect changes to: deals 400% Reality DMG."
+      ]
+    }
+  },
+  "ONiON": {
+    "name": "ONiON",
+    "url": "https://www.prydwen.gg/re1999/characters/onion",
+    "thumbnail": "https://www.prydwen.gg/static/d20825007178f8731b833dd21ffae2db/60b4d/46_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Mineral",
+    "damageType": "Reality",
+    "overview": "DPS - Debuff",
+    "insight": {
+      "name": "The Sane",
+      "levels": [
+        {
+          "description": "After the caster casts an Ultimate, enters [Taunt] status and DMG Taken -30% for 1 round",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x2",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x2"
+          ]
+        },
+        {
+          "description": "When entering battle, DMG Heal +10%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x4",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x2",
+            "<:biting_box:1174245727514402856> Biting Box: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Frequent Phenomena",
+      "thumbnail": "https://www.prydwen.gg/static/bcec38fb988f1664c371575b8631cb1c/9b438/onion1.webp",
+      "description": "Mass attack. Deals 250% Reality DMG to all enemies; Gives all allies 2 stacks of [Sturdiness]"
+    },
+    "skills": [
+      {
+        "name": "Not Fake News",
+        "thumbnail": "https://www.prydwen.gg/static/9a485e336eb00747cca56910b9398541/f0036/onion2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 180% Reality DMG. If the target is in [Stats Down], [Neg Stats], or [Control] statuses, this attack also deals 40% more Reality DMG",
+          "[Attack] 1-target attack. Deals 270% Reality DMG. If the target is in [Stats Down], [Neg Stats], or [Control] statuses, this attack also deals 60% more Reality DMG",
+          "[Attack] 1-target attack. Deals 450% Reality DMG. If the target is in [Stats Down], [Neg Stats], or [Control] statuses, this attack also deals 100% more Reality DMG"
+        ]
+      },
+      {
+        "name": "Just A Show",
+        "thumbnail": "https://www.prydwen.gg/static/82bfdab81aa587c7c7c4a4a1275e133c/f0036/onion3.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Reality DMG. If the target's current HP is below 50%, then deals 60% more Reality DMG",
+          "[Attack] 1-target attack. Deals 240% Reality DMG. If the target's current HP is below 50%, then deals 90% more Reality DMG",
+          "[Attack] 1-target attack. Deals 400% Reality DMG. If the target's current HP is below 50%, then deals 150% more Reality DMG"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Frequent Phenomena's** effect changes to: deals **300%** Reality DMG.",
+        "**Lv. 2**: **Not Fake News's** effect changes to: at 1/2/3 stars, additionally deals **65%/95%/160%** Reality DMG to enemies in [Stats Down], [Neg Status], or [Control].",
+        "**Lv. 3**: **Frequent Phenomena's** effect changes to: deals **350%** Reality DMG.",
+        "**Lv. 4**: **Just A Show's** effect changes to: additionally deals Reality DMG when the target's HP is below 60%.",
+        "**Lv. 5**: **Frequent Phenomena's** effect changes to: deals **400%** Reality DMG."
+      ]
+    }
+  },
+  "Sputnik": {
+    "name": "Sputnik",
+    "url": "https://www.prydwen.gg/re1999/characters/sputnik",
+    "thumbnail": "https://www.prydwen.gg/static/ddf41f890499fa800d9222d85fe58351/60b4d/47_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Star",
+    "damageType": "Mental",
+    "overview": "DEF - Control",
+    "insight": {
+      "name": "Returning Home",
+      "levels": [
+        {
+          "description": "When the caster is in [Counter], DMG Taken -30%",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x2",
+            "<:spell_banishing:1174248848928022608> Spell Of Banishing: x2"
+          ]
+        },
+        {
+          "description": "DMG Dealt +8% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x4",
+            "<:liquified_terror:1174241152996741140> Liquified Terror: x2",
+            "<:holy_silver:1174251736542752778> Holy Silver: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "NDA Keeper",
+      "thumbnail": "https://www.prydwen.gg/static/6db3e5d7cb5d25a12322c1f6039677ea/9b438/spu1.webp",
+      "description": "1-target attack. Deals 350% Mental DMG and inflicts [Disarm] and [Silence] statuses on the target for 2 rounds"
+    },
+    "skills": [
+      {
+        "name": "Revolving Momentum",
+        "thumbnail": "https://www.prydwen.gg/static/ac5f6014a4751b54611a49bc5bc52b6e/f0036/spu2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 160% Mental DMG. If the caster's HP is above 50%, this attack deals 60% more Mental DMG",
+          "[Attack] 1-target attack. Deals 240% Mental DMG. If the caster's HP is above 50%, this attack deals 90% more Mental DMG",
+          "[Attack] 1-target attack. Deals 400% Mental DMG. If the caster's HP is above 50%, this attack deals 150% more Mental DMG"
+        ]
+      },
+      {
+        "name": "Silent Observation",
+        "thumbnail": "https://www.prydwen.gg/static/db9a34b52e48897dbd2b5c7cc5b42971/f0036/spu3.webp",
+        "levels": [
+          "[Counter] Self counter for 2 rounds. When the caster is attacked, Moxie -1 for the attacker",
+          "[Counter] Self counter for 3 rounds. When the caster is attacked, Moxie -1 for the attacker",
+          "[Counter] Self counter for 3 rounds. When the caster is attacked, Moxie -1 for the attacker and Moxie +1 for the caster"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **NDA Keeper's** effect changes to: deals **400%** Mental DMG.",
+        "**Lv. 2**: **Revolving Momentum's** effect changes to: additionally deals Mental DMG when the caster's HP is above 40%.",
+        "**Lv. 3**: **NDA Keeper's** effect changes to: deals **450%** Mental DMG.",
+        "**Lv. 4**: **Revolving Momentum's** effect changes to: additionally deals Mental DMG when the caster's HP is above 30%.",
+        "**Lv. 5**: **NDA Keeper's** effect changes to: deals **500%** Mental DMG."
+      ]
+    }
+  },
+  "The Fool": {
+    "name": "The Fool",
+    "url": "https://www.prydwen.gg/re1999/characters/the-fool",
+    "thumbnail": "https://www.prydwen.gg/static/fa87225d64d1c9e63e1e3d06923af2c2/60b4d/38_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Star",
+    "damageType": "Mental",
+    "overview": "DEF",
+    "insight": {
+      "name": "Before Curtains Are Drawn",
+      "levels": [
+        {
+          "description": "When the caster enters battle, enters [Fool in the Play] status for 2 rounds (only triggers 1 time)",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x2",
+            "<:shattered_bones:1174252633922469948> Shattered Bones: x2",
+            ""
+          ]
+        },
+        {
+          "description": "Reality DEF and Mental DEF +10% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x4",
+            "<:rough_silver:1174250023639322654> Rough Silver Ingot: x2",
+            "<:salted_mandrake:1174248823657353318> Salted Mandrake: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Unexpected And Improvised",
+      "thumbnail": "https://www.prydwen.gg/static/d3bcc6b7919090707fb8e91453f03921/9b438/thefool1.webp",
+      "description": "Mass attack. Deals 250% Mental DMG to all enemies. If the target is in [Corrode] status, then extends the status duration for 1 round"
+    },
+    "skills": [
+      {
+        "name": "The Sage",
+        "thumbnail": "https://www.prydwen.gg/static/232ca4943c8bbc626ecbe0e897dc716b/f0036/thefool2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Attack] 1-target attack. Deals 250% Mental DMG. Moxie -1 for the target",
+          "[Attack] 1-target attack. Deals 400% Mental DMG. Moxie -2 for the target"
+        ]
+      },
+      {
+        "name": "The Fool",
+        "thumbnail": "https://www.prydwen.gg/static/76a88b503f654246c13d21e52b5db80a/f0036/thefool3.webp",
+        "levels": [
+          "[Counter] Self counter. Enters [Taunt] for 1 round. When the caster is attacked, the attacker suffers 2 rounds of [Corrode]: when a round ends, takes (Target's Current HP x15%) Genesis DMG, capped at 15% of Caster's Max HP",
+          "[Counter] Self counter. Enters [Taunt] for 1 round. When the caster is attacked, the attacker suffers 2 rounds of [Corrode]: when a round ends, takes (Target's Current HP x25%) Genesis DMG, capped at 25% of Caster's Max HP",
+          "[Counter] Self counter. Enters [Taunt] for 1 round. When the caster is attacked, the attacker suffers 2 rounds of [Corrode]: when a round ends, takes (Target's Current HP x35%) Genesis DMG, capped at 35% of Caster's Max HP"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Unexpected and Improvised's** effect changes to: deals **280%** Mental DMG.",
+        "**Lv. 2**: **The Sage's** effect changes to: at 1/2/3 stars, deals **220/280/450%** Mental DMG.",
+        "**Lv. 3**: **The Fool's** effect changes to: at 1/2 stars, [Corrode] deals (current HP x20/30%) Genesis DMG.",
+        "**Lv. 4**: **Unexpected and Improvised's** effect changes to: deals **310%** Mental DMG.",
+        "**Lv. 5**: **Unexpected and Improvised's** effect changes to: deals **350%** Mental DMG."
+      ]
+    }
+  },
+  "Twins Sleep": {
+    "name": "Twins Sleep",
+    "url": "https://www.prydwen.gg/re1999/characters/twins-sleep",
+    "thumbnail": "https://www.prydwen.gg/static/cd9db136e331798e7147d2cf368ac959/60b4d/43_icon.webp",
+    "rarity": "3✦",
+    "afflatus": "Spirit",
+    "damageType": "Mental",
+    "overview": "Debuff - Control",
+    "insight": {
+      "name": "Twins Hypnosis",
+      "levels": [
+        {
+          "description": "Every other round, enters [Arcane Stamp] status for 1 round",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x1",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x1",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x2"
+          ]
+        },
+        {
+          "description": "ATK +5% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x2",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x2",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x2",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x2"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "Good Children Sleep Well",
+      "thumbnail": "https://www.prydwen.gg/static/86d53860d008fbcc3fa991afe1e8996d/9b438/twins1.webp",
+      "description": "1-target attack. Deals 450% Mental DMG and inflicts [Nightmare] for 1 round"
+    },
+    "skills": [
+      {
+        "name": "Pincer Movement",
+        "thumbnail": "https://www.prydwen.gg/static/a49b1d002f1cdbd111e4685bddd74f65/f0036/twins2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Debuff] 1-target attack. Deals 200% Mental DMG. Mental DEF -25% for the target for 2 rounds",
+          "[Debuff] 1-target attack. Deals 350% Mental DMG. Mental DEF -35% for the target for 3 rounds"
+        ]
+      },
+      {
+        "name": "Hide And Seek",
+        "thumbnail": "https://www.prydwen.gg/static/0b97a95d87ce15834caecaa5dc22ec39/f0036/twins3.webp",
+        "levels": [
+          "[Debuff] Mass debuff. Inflicts 1 stack of [Weakness] on all enemies and Critical DEF -20% for them for 2 rounds",
+          "[Debuff] Mass debuff. Inflicts 1 stack of [Weakness] on all enemies and Critical DEF -30% for them for 2 rounds",
+          "[Debuff] Mass debuff. Inflicts 1 stack of [Weakness] on all enemies and Critical DEF -40% for them for 2 rounds"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **Good Children Sleep Well's** effect changes to: deals **500%** Mental DMG.",
+        "**Lv. 2**: **Pincer Movement's** effect changes to: at 1/2/3 stars, deals **220/230/400%** Mental DMG.",
+        "**Lv. 3**: **Good Children Sleep Well's** effect changes to: deals **550%** Mental DMG.",
+        "**Lv. 4**: **Hide and Seek's** effect changes to: at 1/2/3 stars, Critical DEF -30/40/50%.",
+        "**Lv. 5**: **Good Children Sleep Well's** effect changes to: deals **600%** Mental DMG."
+      ]
+    }
+  },
+  "Door": {
+    "name": "Door",
+    "url": "https://www.prydwen.gg/re1999/characters/door",
+    "thumbnail": "https://www.prydwen.gg/static/21441421e2b474b8a4843ca439ae203c/60b4d/49_icon.webp",
+    "rarity": "2✦",
+    "afflatus": "Intellect",
+    "damageType": "Reality",
+    "overview": "Support",
+    "insight": {
+      "name": "Modesty",
+      "levels": [
+        {
+          "description": "When the caster dies, Moxie +1 for other allies",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_mineral:1174250027728785448> Page Of Mineral Wealth: x1",
+            "<:page_star:1174241170214375536> Page Of Starlit Ascent: x1",
+            "<:trembling_tooth:1174251297671757877> Trembling Tooth: x2"
+          ]
+        },
+        {
+          "description": "DMG Taken -8% when the caster enters battle.",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_mineral:1174250353609424936> Scroll Of Mineral Wealth: x2",
+            "<:scroll_star:1174243407661649981> Scroll Of Starlit Ascent: x2",
+            "<:milled_magnesia:1174251282765189210> Milled Magnesia: x1",
+            "<:prophetic_bird:1174250347276030012> Prophetic Bird: x1"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "To The Universer In The Alley",
+      "thumbnail": "https://www.prydwen.gg/static/bfb5cda614ebde0af0b2ee5174d47185/9b438/door1.webp",
+      "description": "Mass Buff. HP -(current HP x100%) for the caster. Moxie +2 for other allies, inflicts a Shield with (the target's ATK x100%) HP on every ally, and they enter [Inspire] status for 2 rounds"
+    },
+    "skills": [
+      {
+        "name": "Deep Vortex",
+        "thumbnail": "https://www.prydwen.gg/static/ef537f0fc41b07d42fc6047e4473f41c/f0036/door2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Reality DMG",
+          "[Attack] 1-target attack. Deals 300% Reality DMG",
+          "[Attack] 1-target attack. Deals 500% Reality DMG"
+        ]
+      },
+      {
+        "name": "Convering Mirror",
+        "thumbnail": "https://www.prydwen.gg/static/43ef99166324e1478e11a8e8ef294ebd/f0036/door3.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 150% Reality DMG to 2 enemies",
+          "[Attack] Mass attack. Deals 225% Reality DMG to 2 enemies",
+          "[Attack] Mass attack. Deals 375% Reality DMG to 2 enemies"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **To the Universe in the Alley's** effect changes to: inflicts a [Shield] with (the caster's ATK x150%) HP on all allies.",
+        "**Lv. 2**: **Deep Vortex's** effect changes to: at 1/2/3 stars, deals **220/330/550%** Reality DMG.",
+        "**Lv. 3**: **To the Universe in the Alley's** effect changes to: inflicts a [Shield] with (the caster's ATK x200%) HP on all allies.",
+        "**Lv. 4**: **Converging Mirror's** effect changes to: at 1/2/3 stars, deals **165/245/400%** Reality DMG.",
+        "**Lv. 5**: **To the Universe in the Alley's** effect changes to: inflicts a [Shield] with (the caster's ATK x250%) HP on all allies."
+      ]
+    }
+  },
+  "Ms. Radio": {
+    "name": "Ms. Radio",
+    "url": "https://www.prydwen.gg/re1999/characters/ms-radio",
+    "thumbnail": "https://www.prydwen.gg/static/1e70e30431cf9b2c10c6c183aeabaff9/60b4d/48_icon.webp",
+    "rarity": "2✦",
+    "afflatus": "Spirit",
+    "damageType": "Mental",
+    "overview": "Debuff",
+    "insight": {
+      "name": "Darkest Hour",
+      "levels": [
+        {
+          "description": "Moxie -1 for all enemies when the caster dies",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x5 000",
+            "<:page_plant:1174247706504470568> Page Of Plantal Vimen: x1",
+            "<:page_beast:1174247702767345754> Page Of Beastly Thirst: x1",
+            "<:magnesia_crystal:1174241155718860800> Magnesia Crystal: x2"
+          ]
+        },
+        {
+          "description": "Reality DEF and Mental DEF +10% when the caster enters battle",
+          "materials": [
+            "<:sharpodonty:1174240173408669696> Sharpodonty: x20 000",
+            "<:scroll_plant:1174246081945686036> Scroll Of Plantal Vimen: x2",
+            "<:scroll_beast:1174246076245606452> Scroll Of Beastly Thirst: x2",
+            "<:esoteric_bones:1174243815989719060> Esoteric Bones: x1",
+            "<:biting_box:1174245727514402856> Biting Box: x1"
+          ]
+        }
+      ]
+    },
+    "ultimate": {
+      "name": "A Bit Of Truth Unveiled",
+      "thumbnail": "https://www.prydwen.gg/static/80f85daba509cd88bb821609735a4603/9b438/msrd1.webp",
+      "description": "Mass attack. Loses all HP and deals 100% Mental DMG, Moxie -4, and inflicts 2 rounds of [Disconcert] to all enemies"
+    },
+    "skills": [
+      {
+        "name": "BupDese",
+        "thumbnail": "https://www.prydwen.gg/static/82fc7061c3c5e4e6eed0b05f8a27dc61/f0036/msrd2.webp",
+        "levels": [
+          "[Attack] 1-target attack. Deals 200% Mental DMG",
+          "[Attack] 1-target attack. Deals 300% Mental DMG",
+          "[Attack] 1-target attack. Deals 500% Mental DMG"
+        ]
+      },
+      {
+        "name": "LeEe Frequency",
+        "thumbnail": "https://www.prydwen.gg/static/3b655b278226cfd3aff73132a8ac512d/f0036/msrd3.webp",
+        "levels": [
+          "[Attack] Mass attack. Deals 150% Mental DMG to 2 enemies",
+          "[Attack] Mass attack. Deals 225% Mental DMG to 2 enemies",
+          "[Attack] Mass attack. Deals 375% Mental DMG to 2 enemies"
+        ]
+      }
+    ],
+    "portray": {
+      "levels": [
+        "**Lv. 1**: **A Bit of Truth Unveiled's** effect changes to: deals **120%** Mental DMG.",
+        "**Lv. 2**: **BupDese's** effect changes to: at 1/2/3 stars, deals **220/330/550%** Mental DMG.",
+        "**Lv. 3**: **A Bit of Truth Unveiled's** effect changes to: deals **140%** Mental DMG.",
+        "**Lv. 4**: **LeEe Frequency's** effect changes to: at 1/2/3 stars, deals **165/245/400%** Mental DMG.",
+        "**Lv. 5**: **A Bit of Truth Unveiled's** effect changes to: deals **160%** Mental DMG."
+      ]
+    }
   }
 }

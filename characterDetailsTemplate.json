@@ -3,7 +3,7 @@
     "name": "",
     "url": "",
     "thumbnail": "",
-    "rarity": "",
+    "rarity": "✦",
     "afflatus": "",
     "damageType": "",
     "overview": "",
@@ -12,15 +12,15 @@
       "levels": [
         {
           "description": "",
-          "materials": ["Sharpodonty: x 000", "", "", ""]
+          "materials": ["", "", "", ""]
         },
         {
           "description": "",
-          "materials": ["Sharpodonty: x 000", "", "", ""]
+          "materials": ["", "", "", ""]
         },
         {
           "description": "",
-          "materials": ["Sharpodonty: x 000", "", "", ""]
+          "materials": ["", "", "", ""]
         }
       ]
     },
